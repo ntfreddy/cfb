@@ -146,18 +146,18 @@ New Testament authors, using the Old Testament, have stressed specific words and
 1. Different Kinds of Structures: The structure of verses and paragraphs can be quite different. It must be kept in mind that a structure should not be forced upon a text; rather, it has to be extracted from the text. Therefore, a change of word order or of verse order to fit a structure must be rejected. However, finding the outline of a text may help us considerably to understand and interpret it. Here are a few of the possible patterns: 
 
 a. A n outline allows us to perceive better the issues the author is presenting, his main line of thought, the digressions he makes, and the arrangement of the material. Luke 12:15-21 can be outlined as follows: 
-
+```
 1. Introduction: The principle 12:15 
 2. The parable 12:16-20 
-a. Scene 1: The rich man 12:16-19) 
-(1) Information on him 12:16 
-(2) Soliloquy 12:17-19 
-(a) Question 12:17 
-(b) Answer 12:18-19 
-(Topic: Goods and soul) 
-b. Scene 2: God 12:20 Monolog (Topic: Soul and goods) 
+	a. Scene 1: The rich man 12:16-19) 
+		(1) Information on him 12:16 
+		(2) Soliloquy 12:17-19 
+			(a) Question 12:17 
+			(b) Answer 12:18-19 
+			(Topic: Goods and soul) 
+	b. Scene 2: God 12:20 Monolog (Topic: Soul and goods) 
 3. Conclusion: The principle 12:21 
-
+```
 b. In an acrostic outline the letters of the alphabet are successively used at the beginning of successive verses.6  This can be seen only in the original language. 
 
 c. A n inclusion is a kind of envelope structure. A statement at the beginning of a passage is repeated at its end. 
