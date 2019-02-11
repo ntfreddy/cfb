@@ -1,10 +1,12 @@
-CHAPTER VII
-GUIDELINES FOR THE INTERPRETATION OF SCRIPTURE 
+## CHAPTER VII
+# GUIDELINES FOR THE INTERPRETATION OF SCRIPTURE 
 
-Introduction
+Ekkehardt Muller 
+
+## Introduction
 A crucial and very practical issue today involves the question of which method should be employed to interpret Scripture, for interpretation is necessary, as pointed out even by Jesus (Luke 24:27). This chapter begins with general guidelines, then moves to specific exegetical steps that help us understand God's Word. From the beginning, we must keep in mind that the goal of our interpretation must be to create a "burning heart" (Luke 24:32) in both the expositor and in the audience, which draws them closer to God.
 
-1. The Historical-Biblical Method 
+## 1. The Historical-Biblical Method 
 
 The historical-biblical method is sometimes called the biblical-grammatical approach to Scripture, the historical-grammatical method, or the grammatical-historical method. It is to be distinguished from the predominant historical-critical method wit h its source criticism, form criticism, redaction criticism, tradition history, and socio-scientific criticism.
 
@@ -22,7 +24,7 @@ In contrast to most other approaches, the historical-biblical method acknowledge
 
 4. Spiritual things must be discerned spiritually (1 Corinthians 2:11,14): (a) Whoever wants to understand Scripture needs the illumination of the Holy Spirit (John 14:26). Yet, the Holy Spirit does not work contrary to the Scripture that He has inspired, (b) On the other hand, whoever interprets Scripture must have faith and a spiritual attitude (2 Chronicles 20:20). 
 
-The Issue of the Text 
+### The Issue of the Text
 
 Our world today is different from the ancient Near East. Most of us speak languages other than those used by the writers of the Bible, and many elements of our cultures differ from those described in the Bible. Therefore, we must investigate the biblical texts and try to understand the languages, the time, and the circumstances under which these texts were written. We must try to see with the eyes of those who lived centuries ago and hear with their ears when they were addressed with the biblical message. While attempting to overcome barriers of time, language, and culture, we believe that we can come close to the biblical text and apply it to our situation today. 
 
@@ -32,7 +34,7 @@ Although we believe that God through the prophets spoke to particular situations
 
 God's Word is not culturally or historically conditioned but culturally/ historically constituted. It transcends cultures and reaches us today. Therefore, what the biblical text meant in principle in its original setting is precisely what the text means for us today. Any application of a text to our situation must be tied to the original meaning. As already pointed out, Jesus himself was convinced that Scripture was directed not only to the original audience but also to the generation of His time, as well as to those to come. [2]
 
-2. Interpreting a Biblical Text
+## 2. Interpreting a Biblical Text
 
 When we talk about a biblical text, we may refer either to an individual verse or to a larger biblical passage containing a number of verses. These are the basic exegetical steps in chronological order:
 	1. Turning to God in prayer
@@ -48,24 +50,28 @@ When we talk about a biblical text, we may refer either to an individual verse o
 
 Each of these steps is essential. However, persons not trained in theology or biblical exegesis may want to skip step three, work with an existing translation (step four), and may simplify some other approaches discussed under step six. Even with these adjustments, they will benefit from the historical-biblical approach to Scripture. [3]
 
-Step One: Turning to God in Prayer
+### Step One: Turning to God in Prayer
 
-Scripture. Since spiritual things are discerned spiritually (1 Corinthians 2:14), it is natural to turn to God in prayer before starting to study the Bible. Since the Bible is the Word of God, the illumination of the Holy Spirit is essential for its proper understanding. The interaction between prayer and the study of Scripture is illustrated in Daniel 9:1-19. In this case, Bible study was followed by prayer.
+**Scripture.** Since spiritual things are discerned spiritually (1 Corinthians 2:14), it is natural to turn to God in prayer before starting to study the Bible. Since the Bible is the Word of God, the illumination of the Holy Spirit is essential for its proper understanding. The interaction between prayer and the study of Scripture is illustrated in Daniel 9:1-19. In this case, Bible study was followed by prayer.
 
-Exegetical Step. In prayer we ask God for wisdom (Jas 1:5) and for the guidance of the Holy Spirit (Luke 11:13) as we open His Word. However, prayer is not limited to the time prior to the study of Scripture. The interpreter may turn to God throughout the endeavor to understand the biblical text, presenting to the Lord what puzzles him or her and reacting to the personal challenges of Scripture. Thus, a dialog takes place between God and His Word on one side and the human agent on the other.
+**Exegetical Step.** In prayer we ask God for wisdom (Jas 1:5) and for the guidance of the Holy Spirit (Luke 11:13) as we open His Word. However, prayer is not limited to the time prior to the study of Scripture. The interpreter may turn to God throughout the endeavor to understand the biblical text, presenting to the Lord what puzzles him or her and reacting to the personal challenges of Scripture. Thus, a dialog takes place between God and His Word on one side and the human agent on the other.
 
-Step Two: Reading the Text
-Scripture. In Revelation 1:3, the readers of the Apocalypse are called blessed. In Luke 4:16-19, Jesus reads Scripture before He starts to interpret and apply it (Luke 4:21-27). Reading the Scripture may be private or public. In our case, we are referring to private reading of the text. 
+### Step Two: Reading the Text
+**Scripture.** In Revelation 1:3, the readers of the Apocalypse are called blessed. In Luke 4:16-19, Jesus reads Scripture before He starts to interpret and apply it (Luke 4:21-27). Reading the Scripture may be private or public. In our case, we are referring to private reading of the text. 
 
-Exegetical Step. In order to become familiar with the passage, the text must be read carefully and repeatedly, preferably in its larger context. Memorizing the passage can be very helpful. Memorization requires a constant repetition of the text. Frequently this repetition causes the paragraph to come alive to the reader, opening new understanding.
+**Exegetical Step.** In order to become familiar with the passage, the text must be read carefully and repeatedly, preferably in its larger context. Memorizing the passage can be very helpful. Memorization requires a constant repetition of the text. Frequently this repetition causes the paragraph to come alive to the reader, opening new understanding.
 
-Step Three: Using the Best Possible Reading
-Scripture. In biblical times, great numbers of biblical manuscripts were not yet available, but the New Testament authors seem to have used different forms of the Septuagint (LXX ) and of the Hebrew text. However, the Bible stresses the need of its preservation without additions and deletions (Deuteronomy 4:2; 12:32; Revelation 22:18-19). Since today we have at hand thousands of New Testament manuscripts, as well as many Old Testament documents, we need to look for the best possible text.
+### Step Three: Using the Best Possible Reading
 
-Exegetical Step. Despite thousands of biblical manuscripts that have been discovered, we do not have the original manuscripts. The extant manuscripts are copies of copies originating with the autographs, containing a number of different readings. Scholars of the text are interested in the potential reconstruction of the original biblical text, with the goal of coming as close as possible to the original. The Bible remains the best preserved manuscript of antiquity and is both trustworthy and reliable. Textual analysis can be quite demanding and is the domain of specialists. It requires a good working knowledge in several ancient languages, for the task does not stop with the Greek and Hebrew manuscripts. It extends to versions in other languages, as well as to quotations in the writings of the church fathers. Therefore, most of us will work with the established Greek and Hebrew texts and/or translations into our mother tongues. 
+**Scripture.** In biblical times, great numbers of biblical manuscripts were not yet available, but the New Testament authors seem to have used different forms of the Septuagint (LXX ) and of the Hebrew text. However, the Bible stresses the need of its preservation without additions and deletions (Deuteronomy 4:2; 12:32; Revelation 22:18-19). Since today we have at hand thousands of New Testament manuscripts, as well as many Old Testament documents, we need to look for the best possible text.
 
-Step Four: Translating the Text 
-Scripture. In contrast to the Quran, which basically has to be read in Arabic, the biblical text comes in three languages, Hebrew, Aramaic, and Greek. Translations may be found within the Bible itself, for example, in Genesis 31:48 (Aramaic and Hebrew) and Romans 8:15 (Aramaic and Greek). Exegetical Step. The person who is able to read the biblical languages — Hebrew, Aramaic, and Greek—should translate the passage under investigation and put it down in writing. Nuances and options exist in a text that no translation can ever capture. The translators have already made certain decisions, and even the best translation is already an interpretation. 
+**Exegetical Step.** Despite thousands of biblical manuscripts that have been discovered, we do not have the original manuscripts. The extant manuscripts are copies of copies originating with the autographs, containing a number of different readings. Scholars of the text are interested in the potential reconstruction of the original biblical text, with the goal of coming as close as possible to the original. The Bible remains the best preserved manuscript of antiquity and is both trustworthy and reliable. Textual analysis can be quite demanding and is the domain of specialists. It requires a good working knowledge in several ancient languages, for the task does not stop with the Greek and Hebrew manuscripts. It extends to versions in other languages, as well as to quotations in the writings of the church fathers. Therefore, most of us will work with the established Greek and Hebrew texts and/or translations into our mother tongues. 
+
+### Step Four: Translating the Text
+
+**Scripture.** In contrast to the Quran, which basically has to be read in Arabic, the biblical text comes in three languages, Hebrew, Aramaic, and Greek. Translations may be found within the Bible itself, for example, in Genesis 31:48 (Aramaic and Hebrew) and Romans 8:15 (Aramaic and Greek). 
+
+**Exegetical Step.** The person who is able to read the biblical languages — Hebrew, Aramaic, and Greek—should translate the passage under investigation and put it down in writing. Nuances and options exist in a text that no translation can ever capture. The translators have already made certain decisions, and even the best translation is already an interpretation. 
 
 All those who do not have access to the respective biblical language should consult—where possible—a number of good translations. There are different ways to translate the Bible. One can find paraphrases, which actually are not translations but rather descriptions of the biblical content in one's own words with plenty of room for interpretation. The Clear Word, for example, is a paraphrase.4  Real translations can be distinguished as formal or dynamic translations. 
 
@@ -77,10 +83,11 @@ Good English translations include the King James Version, although the language 
 
 Although sometimes we may encounter problems with Bible translations, in general, they can be trusted. Using more than one translation is a safeguard against liberties taken by some translators or groups of translators. 
 
-Step Five: Investigating the Context
-Scripture. A negative example that illustrates the neglect of the scriptural context is Jesus' second temptation (Matthew 4:6) in which Satan challenges Jesus with a quotation from Psalm 91:11-12. The quotation has been shortened as compared with the original text and, therefore, somewhat misrepresented. The Psalmist talks about God's guidance "in all your ways" and not just about His intervention in special situations. The context in Psalm 91 reveals that there are snares and plagues from which God preserves the faithful. Jesus opposes any misrepresentation of the biblical text by disregarding its context. In Matthew 19:4-8 Jesus discusses divorce by citing the Old Testament context of creation (larger context) and confirms the principle of Scripture being its own interpreter. 
+### Step Five: Investigating the Context
 
-Exegetical Step. We need to distinguish between the historical-cultural context and the literary context. The literary context can be classified as the larger literary context or the immediate literary context. 
+**Scripture.** A negative example that illustrates the neglect of the scriptural context is Jesus' second temptation (Matthew 4:6) in which Satan challenges Jesus with a quotation from Psalm 91:11-12. The quotation has been shortened as compared with the original text and, therefore, somewhat misrepresented. The Psalmist talks about God's guidance "in all your ways" and not just about His intervention in special situations. The context in Psalm 91 reveals that there are snares and plagues from which God preserves the faithful. Jesus opposes any misrepresentation of the biblical text by disregarding its context. In Matthew 19:4-8 Jesus discusses divorce by citing the Old Testament context of creation (larger context) and confirms the principle of Scripture being its own interpreter. 
+
+**Exegetical Step.** We need to distinguish between the historical-cultural context and the literary context. The literary context can be classified as the larger literary context or the immediate literary context. 
 
 1. The Historical Context: The historical-cultural context provides answers to such question as: When was the biblical book written? Who was the human author? To whom was the book originally addressed? What was the author's purpose? A t which time and in which geographical location did events described in this book happen? What was the political, economic, and social situation at that time? What do we know about the religious background and situation? Which customs were prevailing? How did people live, work, and support themselves? What did they eat? The Bible itself, archeology, geography, and history throw light on the historical context. The historical context is very helpful and very much needed to gain a better understanding of the text that will be explored. As an example, the date in which the Book of Daniel was written, as well as the name of the author, can be derived from the book itself. Dates for events that have taken place, as well as other chronological data, can oftentimes be found at the beginning of the different chapters (Daniel 1:1; 2:1; 6:1; 7:1; 8:1; 9:1; 10:1). Consequently, the book is placed in the sixth century B.C. 
 
@@ -128,12 +135,13 @@ Daniel 7 — Four empires
 
 Is the context and/or text a historical report or a prophecy? If a prophecy, is it classical prophecy or apocalyptic prophecy, such as found in Daniel and Revelation, that may include many symbols and fantastic figures?  Classical prophecy is normally conditional. It may also have more than one fulfillment, whereas apocalyptic prophecy "depicts the struggle between good and evil, and the ultimate victory and establishment of God's eternal kingdom. It is, therefore, not conditional on human responses"5 and portrays the future as it will be rather than as it may be. 
 
-Step Six: Analyzing the Text 
-Scripture. In some places the Scripture's structures are clearly discernable. Some chiasms, many parallelisms, and the acrostic outline of certain psalms are recognizable for almost everyone. John, in the Apocalypse, seems to have adopted certain structural principles from Daniel, such as recapitulation. 
+### Step Six: Analyzing the Text 
+
+**Scripture.** In some places the Scripture's structures are clearly discernable. Some chiasms, many parallelisms, and the acrostic outline of certain psalms are recognizable for almost everyone. John, in the Apocalypse, seems to have adopted certain structural principles from Daniel, such as recapitulation. 
 
 New Testament authors, using the Old Testament, have stressed specific words and interpreted them. For example, in Romans 4 Paul refers back to Genesis 15:6 and explains justification by faith. In Galatians 3:16, he emphasizes the singular of the noun "seed." In the Old Testament quotations listed in Romans 3, Paul underscores the words "no one" and "all " before drawing the conclusion that "all have sinned and fall short of the glory of God" (Rom 3:23). Scripture encourages us to take a careful look at the text. 
 
-Exegetical Step. Analyzing a text includes the investigation of the text's structure, its literary form, individual words, phrases, sentences, and larger units. 
+**Exegetical Step.** Analyzing a text includes the investigation of the text's structure, its literary form, individual words, phrases, sentences, and larger units. 
 
 1. Different Kinds of Structures: The structure of verses and paragraphs can be quite different. It must be kept in mind that a structure should not be forced upon a text; rather, it has to be extracted from the text. Therefore, a change of word order or of verse order to fit a structure must be rejected. However, finding the outline of a text may help us considerably to understand and interpret it. Here are a few of the possible patterns: 
 
@@ -198,19 +206,21 @@ c. Words—When investigating words, the most important principle is to allow th
 
 d. Apocalyptic Symbols—In studying apocalyptic prophecy one more step must be taken. Having employed all the above mentioned exegetical steps, then and only then are we ready to identify carefully the symbols of the text with historical realities and developments. Shortcuts can lead to false identifications and false excitement that in the end only damages the church. 
 
-Step Seven: Performing Theological Analysis 
-Scripture. Luke reports Jesus' programmatic speech in the synagogue of Nazareth (Luke 4:14-27). The topic of liberation, in which Jesus includes the heathen, seems to be emphasized by Luke. More than the other evangelists, he shows that Jesus takes care of and frees also those who are socially marginalized by society, such as women, publicans, and even Gentiles. At least to a certain degree, Jesus develops a theology of marriage (Matthew 19:1-12) and builds it on Genesis 1 and 2. 
+### Step Seven: Performing Theological Analysis
 
-Exegetical Step. The following issues and questions are dealt with in theological analysis: Which theological motifs and themes are discussed in the biblical text being studied? How are they developed? Where do they stand within the context of the whole book? How do they relate to the overall message of Scripture? This is where the principle of comparing Scripture with Scripture is so important. A variety of theological themes-such as God, man, creation, the fall, sin, covenant, the Sabbath, the law, remnant, salvation, sanctuary, eschatology, etc.-can be found throughout the Old and New Testaments! And the theology of a particular passage must be in harmony with the theology of Scripture as a whole. In Scripture we see that the theological messages of the New Testament writers presuppose, build upon, and stand in continuity with the major Old Testament theological themes.13 Theological themes may be expressed through typology in the prediction-fulfillment sequence, as well as in the portrayal of salvation history. For example, an important part of the Sermon on the Mount focuses on the law. The term "law" is first introduced in Matthew 5:17 and found the last time in Matthew 7:12. These two verses form the introductory and concluding statements of this sermon. However, the entire passage following Matthew 7:12 seems to focus on doing God's will ; in other words, obedience to God and Jesus are central. Building on the Old Testament, Jesus discusses the Decalogue and other laws and shows their far-reaching implications. 
+**Scripture.** Luke reports Jesus' programmatic speech in the synagogue of Nazareth (Luke 4:14-27). The topic of liberation, in which Jesus includes the heathen, seems to be emphasized by Luke. More than the other evangelists, he shows that Jesus takes care of and frees also those who are socially marginalized by society, such as women, publicans, and even Gentiles. At least to a certain degree, Jesus develops a theology of marriage (Matthew 19:1-12) and builds it on Genesis 1 and 2. 
 
-Step Eight: Applying the Text Scripture. 
-In 1 Corinthians 10:6 and 11, Paul twice stresses that Israel's history is an example for the New Testament church. Between these two statements, he warns against idolatry, fornication, presumption, and grumbling against God, using historical accounts dealing with God's Old Testament covenant people. 
+**Exegetical Step.** The following issues and questions are dealt with in theological analysis: Which theological motifs and themes are discussed in the biblical text being studied? How are they developed? Where do they stand within the context of the whole book? How do they relate to the overall message of Scripture? This is where the principle of comparing Scripture with Scripture is so important. A variety of theological themes-such as God, man, creation, the fall, sin, covenant, the Sabbath, the law, remnant, salvation, sanctuary, eschatology, etc.-can be found throughout the Old and New Testaments! And the theology of a particular passage must be in harmony with the theology of Scripture as a whole. In Scripture we see that the theological messages of the New Testament writers presuppose, build upon, and stand in continuity with the major Old Testament theological themes.13 Theological themes may be expressed through typology in the prediction-fulfillment sequence, as well as in the portrayal of salvation history. For example, an important part of the Sermon on the Mount focuses on the law. The term "law" is first introduced in Matthew 5:17 and found the last time in Matthew 7:12. These two verses form the introductory and concluding statements of this sermon. However, the entire passage following Matthew 7:12 seems to focus on doing God's will ; in other words, obedience to God and Jesus are central. Building on the Old Testament, Jesus discusses the Decalogue and other laws and shows their far-reaching implications. 
+
+### Step Eight: Applying the Text 
+
+**Scripture.** In 1 Corinthians 10:6 and 11, Paul twice stresses that Israel's history is an example for the New Testament church. Between these two statements, he warns against idolatry, fornication, presumption, and grumbling against God, using historical accounts dealing with God's Old Testament covenant people. 
 
 In Hebrews 11 the heroes of faith are introduced. In Hebrews 12: l-2a, the writer draws a conclusion: "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight and sin that clings so closely, and let us run with perseverance the race that is set before us, looking to Jesus the pioneer and perfecter of our faith . . ." On this basis it becomes important to apply the text to the present-day audience. 
 
 Scripture also personalizes biblical texts. What God has done for the Exodus generation applies likewise to later generations. They still participate in His saving actions (Deuteronomy 5:2-4). Similarly, the Christian believer participates in Christ's death, resurrection, and ascension already here and now (Gal 3:29; Eph 2:6). 
 
-Exegetical Step. Only after a text is properly understood in its original situation can we move to its application. The application is extremely important. If omitted, the audience or readers may get the impression that we are dealing only with history. If the text is applied too quickly, however, the passage is easily misinterpreted and the exposition remains shallow. The process of applying the biblical text shows that the text is relevant for us today. Several considerations help us reach sound positions. 
+**Exegetical Step.** Only after a text is properly understood in its original situation can we move to its application. The application is extremely important. If omitted, the audience or readers may get the impression that we are dealing only with history. If the text is applied too quickly, however, the passage is easily misinterpreted and the exposition remains shallow. The process of applying the biblical text shows that the text is relevant for us today. Several considerations help us reach sound positions. 
 
 1. Personalizing the Text. Already we have pointed out that humanity throughout history shares similar experiences, a similar psychological makeup, and even some common moral values. Since believers share in, and are incorporated into, salvation history, biblical texts address them on the personal level and as a group today. Therefore, when it comes to the application of biblical texts, we have to ask personal questions such as the following: What does God want to tell me with this passage? How does it affect my devotion and my commitment to Him, my spiritual life, my insights into God's character and into His plan for us, my actions, and my obedience? How can I respond to His message? By praise and thanksgiving, petition and intercession, or changing my life and reorienting my value system? Biblical texts are not only addressed to individuals but also to the church. Therefore, we have to ask: How does the respective biblical text affect us as a church? In which areas of our church life does Scripture challenge us? How does the text educate and teach us, comfort and encourage us? 
 
@@ -232,10 +242,11 @@ Applying the text does not give us freedom to use the text only as a springboard
 
 The parable of the rich fool (Luke 12:16-21) can be summarized and applied in the following way: Money does not save us, God does. Therefore, we do not live for money but for God. The passage challenges us today to get our priorities straight, not to rely on and live for material possessions but to belong to God and to be part of His mission to the world. The application develops this main goal. 
 
-Step Nine: Using Resources 
-Scripture. Biblical authors not only knew the books of their predecessors, some were also familiar with non-biblical literature and used it for illustration when they proclaimed the gospel. We already have mentioned Paul, who refers to Greek poets (Acts 17:28) and a Cretan prophet (Titus 1:12). Non-canonical literature was known, and some seems indirectly recommended for reading (2 Chronicles 9:29). However, it seems that pagan and apocryphal literature served only as a means to illustrate the message of the biblical author, not to interpret it. 
+### Step Nine: Using Resources 
 
-Exegetical Step. Resource materials should be used. They can be especially helpful in providing historical, exegetical, and theological background information. Nevertheless, commentaries should only be used after having intensively analyzed the text and its context. Almost all secondary literature conveys elements of purely human construction and is to be handled with a certain reserve. 
+**Scripture.** Biblical authors not only knew the books of their predecessors, some were also familiar with non-biblical literature and used it for illustration when they proclaimed the gospel. We already have mentioned Paul, who refers to Greek poets (Acts 17:28) and a Cretan prophet (Titus 1:12). Non-canonical literature was known, and some seems indirectly recommended for reading (2 Chronicles 9:29). However, it seems that pagan and apocryphal literature served only as a means to illustrate the message of the biblical author, not to interpret it. 
+
+**Exegetical Step.** Resource materials should be used. They can be especially helpful in providing historical, exegetical, and theological background information. Nevertheless, commentaries should only be used after having intensively analyzed the text and its context. Almost all secondary literature conveys elements of purely human construction and is to be handled with a certain reserve. 
 
 Ellen G. White's literature is of special importance. Often it furnishes valuable insights; at other times, it is silent on particular texts or issues. In any case, Adventists would want to check what these writings have to tell us on a specific passage. Frequently, Mrs. White uses biblical texts in a manner similar to illustrations. We could call this the homiletical use of Scripture. Sometimes she interprets passages, more often, however, biblical topics. Nevertheless, even her inspired writings should not be used as a shortcut, replacing proper exegesis of a text. 
 
