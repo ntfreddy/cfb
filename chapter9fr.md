@@ -6,7 +6,7 @@ Greg A. Kin g
 
 ## Introduction
 
-La Bible contient plus de littérature qui correspond à la rubrique "narration historique" à tout autre genre littéraire. [1] Près de la moitié de l'Ancien Testament est de cette nature et plus du tiers de la Bible. [2] Dans l'Ancien Testament, les livres de Genèse, Josué, Judges, Ruth, 1 et 2 Samuel, 1 et 2 rois, 1 et 2 Chroniques, Esdras, Néhémie, Esther et Jonas sont en grande partie écrits dans un récit historique. En outre, des parties substantielles d'autres livres tels que Exodus et Ezekiel apparaissent sous cette forme. Dans le Nouveau Testament, les Evangiles et les Actes appartiennent en grande partie à ce genre [3].
+La Bible contient plus de littérature qui correspond à la rubrique "narration historique" à tout autre genre littéraire. [1] Près de la moitié de l'Ancien Testament est de cette nature et plus du tiers de la Bible. [2] Dans l'Ancien Testament, les livres de Genèse, Josué, Juges, Ruth, 1 et 2 Samuel, 1 et 2 rois, 1 et 2 Chroniques, Esdras, Néhémie, Esther et Jonas sont en grande partie écrits dans un récit historique. En outre, des parties substantielles d'autres livres tels que Exodus et Ezekiel apparaissent sous cette forme. Dans le Nouveau Testament, les Evangiles et les Actes appartiennent en grande partie à ce genre [3].
 
 À la lumière de l'omniprésence du récit historique dans les Écritures, il est essentiel que ce genre soit interprété correctement si la Parole de Dieu doit être correctement comprise. Ce chapitre énumérera et expliquera certaines lignes directrices qu'il est utile d'utiliser lors de l'interprétation des sections narratives historiques de la Bible. De plus, nous incluons un exemple d'interprétation d'une section narrative historique du livre de Ruth.
 
