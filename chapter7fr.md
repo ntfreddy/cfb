@@ -13,16 +13,16 @@ La méthode historico-biblique est parfois appelée approche biblico-grammatical
 
 Contrairement à la plupart des autres approches, la méthode historico-biblique reconnaît le témoignage de soi et se penche sur ses phénomènes. Il accepte l'affirmation selon laquelle Dieu s'est révélé (1 Sam 3:21), qu'il est entré dans une relation avec les auteurs humains des Écritures (Amos 3: 7; Éphésiens 3: 5), qu'il a également révélé la vérité propositionnelle et des messages communiqués ( Daniel 10: 1; Tite 1: 3), qu'il inspira les auteurs humains à partager ces messages avec d'autres (2 Timothée 3:16; 1 Pierre 1: 10-12: 2 Pierre 1: 19-21), et que Le message inscripturé est la Parole de Dieu (Marc 7: 10-13). Les présupposés de base de la méthode historico-biblique sont les suivants:
 
-1. La Bible seule est le test final et suprême de la vérité (Es 8:20; 66: 2). Les principes étrangers d'interprétation imposés de l'extérieur à la Bible et qui ne respectent pas son auto-témoignage doivent être rejetés. Les principes issus de la philosophie, de la psychologie et de la sociologie ne peuvent pas contrôler l'interprétation du texte. La tradition et la science ne déterminent pas les questions de foi, bien qu'elles aient la place qui leur revient dans la vie humaine.
+	1. La Bible seule est le test final et suprême de la vérité (Es 8:20; 66: 2). Les principes étrangers d'interprétation imposés de l'extérieur à la Bible et qui ne respectent pas son auto-témoignage doivent être rejetés. Les principes issus de la philosophie, de la psychologie et de la sociologie ne peuvent pas contrôler l'interprétation du texte. La tradition et la science ne déterminent pas les questions de foi, bien qu'elles aient la place qui leur revient dans la vie humaine.
 
-2. Un deuxième présupposé implique la totalité des Écritures. La - Bible est la Parole écrite de Dieu, dans son ensemble, pas simplement ici et là (2 Timothée 3:16). Le message des prophètes et des apôtres est la Parole de Dieu prépositionnelle (2 Chroniques 36: 15-16; Rom 3: 2; 1 Thessaloniciens 2:13). Les côtés humain et divin de l'Écriture sont liés de manière inséparable (2 Pierre 1: 19-21).
+	2. Un deuxième présupposé implique la totalité des Écritures. La - Bible est la Parole écrite de Dieu, dans son ensemble, pas simplement ici et là (2 Timothée 3:16). Le message des prophètes et des apôtres est la Parole de Dieu prépositionnelle (2 Chroniques 36: 15-16; Rom 3: 2; 1 Thessaloniciens 2:13). Les côtés humain et divin de l'Écriture sont liés de manière inséparable (2 Pierre 1: 19-21).
 
-3. L'analogie ou l'harmonie des Ecritures se voit en trois points:
-(a) L'Écriture est son propre exposant (Luc 24:27). Tous les textes traitant d'un même sujet doivent être rassemblés et étudiés afin de présenter correctement la doctrine biblique. Il ne s’agit pas de tests, dans lesquels des textes sont liés sans tenir compte de leur contexte,
-(b) Il existe un accord fondamental ou une unité avec n Ecriture (Jean 10:35).
-(c) Il y a aussi de la clarté dans les Ecritures. Cette clarté signifie non seulement que la Bible peut être comprise, mais également que des textes clairs éclairent des textes difficiles (1 Pierre 1: 10-12).
+	3. L'analogie ou l'harmonie des Ecritures se voit en trois points:
+	(a) L'Écriture est son propre exposant (Luc 24:27). Tous les textes traitant d'un même sujet doivent être rassemblés et étudiés afin de présenter correctement la doctrine biblique. Il ne s’agit pas de tests, dans lesquels des textes sont liés sans tenir compte de leur contexte,
+	(b) Il existe un accord fondamental ou une unité avec n Ecriture (Jean 10:35).
+	(c) Il y a aussi de la clarté dans les Ecritures. Cette clarté signifie non seulement que la Bible peut être comprise, mais également que des textes clairs éclairent des textes difficiles (1 Pierre 1: 10-12).
 
-4. Les choses spirituelles doivent être discernées spirituellement (1 Corinthiens 2: 11,14): (a) Quiconque veut comprendre les Ecritures a besoin de l'illumination du Saint-Esprit (Jean 14:26). Cependant, le Saint-Esprit ne fonctionne pas contrairement aux Écritures qu'il a inspirées. (B) D'autre part, quiconque interprète les Écritures doit avoir une foi et une attitude spirituelle (2 Chroniques 20:20).
+	4. Les choses spirituelles doivent être discernées spirituellement (1 Corinthiens 2: 11,14): (a) Quiconque veut comprendre les Ecritures a besoin de l'illumination du Saint-Esprit (Jean 14:26). Cependant, le Saint-Esprit ne fonctionne pas contrairement aux Écritures qu'il a inspirées. (B) D'autre part, quiconque interprète les Écritures doit avoir une foi et une attitude spirituelle (2 Chroniques 20:20).
 
 ### La question du texte
 
@@ -37,16 +37,16 @@ La Parole de Dieu n'est pas conditionnée culturellement ou historiquement, mais
 ## 2. Interprétation d'un texte biblique
 
 Lorsque nous parlons d'un texte biblique, nous pouvons nous référer soit à un verset individuel, soit à un passage biblique plus important contenant un certain nombre de versets. Ce sont les étapes exégétiques de base dans l'ordre chronologique:
-1. Se tourner vers Dieu dans la prière
-2. Lecture du texte
-3. Utiliser la meilleure lecture possible
-4. Traduire le texte
-5. Enquête sur le contexte
-6. Analyser le texte
-7. Effectuer une analyse théologique
-8. Appliquer le texte
-9. Utilisation des ressources
-10. Prendre du temps
+	1. Se tourner vers Dieu dans la prière
+	2. Lecture du texte
+	3. Utiliser la meilleure lecture possible
+	4. Traduire le texte
+	5. Enquête sur le contexte
+	6. Analyser le texte
+	7. Effectuer une analyse théologique
+	8. Appliquer le texte
+	9. Utilisation des ressources
+	10. Prendre du temps
 
 Chacune de ces étapes est essentielle. Cependant, les personnes non formées en théologie ou en exégèse biblique peuvent souhaiter sauter l'étape trois, travailler avec une traduction existante (étape quatre) et simplifier d'autres approches abordées à l'étape six. Même avec ces ajustements, ils bénéficieront de l'approche historico-biblique de l'Écriture. [3]
 
@@ -89,51 +89,51 @@ Bien que nous ayons parfois des problèmes avec les traductions de la Bible, on 
 
 **Étape exégétique.** Nous devons faire la distinction entre le contexte historique et culturel et le contexte littéraire. Le contexte littéraire peut être classé comme le contexte littéraire plus large ou le contexte littéraire immédiat.
 
-1. Le contexte historique: Le contexte historique et culturel apporte des réponses à des questions telles que: quand le livre biblique a-t-il été écrit? Qui était l'auteur humain? À qui le livre a-t-il été initialement adressé? Quel était le but de l'auteur? A quelle époque et dans quelle région se sont produits les événements décrits dans ce livre? Quelle était la situation politique, économique et sociale à cette époque? Que savons-nous du contexte religieux et de la situation? Quelles coutumes prévalaient? Comment les gens vivaient-ils, travaillaient-ils et se soutenaient-ils? Qu'ont-ils mangé? La Bible elle-même, l'archéologie, la géographie et l'histoire jettent une lumière sur le contexte historique. Le contexte historique est très utile et indispensable pour mieux comprendre le texte à explorer. À titre d'exemple, la date à laquelle le livre de Daniel a été écrit, ainsi que le nom de l'auteur, peuvent être dérivés du livre lui-même. Les dates des événements qui se sont déroulés, ainsi que d’autres données chronologiques, se trouvent souvent au début des différents chapitres (Daniel 1: 1; 2: 1; 6: 1; 7: 1; 8: 1; 9: 1; 10: 1). En conséquence, le livre est placé au VIe siècle av. J.-C.
+	1. Le contexte historique: Le contexte historique et culturel apporte des réponses à des questions telles que: quand le livre biblique a-t-il été écrit? Qui était l'auteur humain? À qui le livre a-t-il été initialement adressé? Quel était le but de l'auteur? A quelle époque et dans quelle région se sont produits les événements décrits dans ce livre? Quelle était la situation politique, économique et sociale à cette époque? Que savons-nous du contexte religieux et de la situation? Quelles coutumes prévalaient? Comment les gens vivaient-ils, travaillaient-ils et se soutenaient-ils? Qu'ont-ils mangé? La Bible elle-même, l'archéologie, la géographie et l'histoire jettent une lumière sur le contexte historique. Le contexte historique est très utile et indispensable pour mieux comprendre le texte à explorer. À titre d'exemple, la date à laquelle le livre de Daniel a été écrit, ainsi que le nom de l'auteur, peuvent être dérivés du livre lui-même. Les dates des événements qui se sont déroulés, ainsi que d’autres données chronologiques, se trouvent souvent au début des différents chapitres (Daniel 1: 1; 2: 1; 6: 1; 7: 1; 8: 1; 9: 1; 10: 1). En conséquence, le livre est placé au VIe siècle av. J.-C.
 
-2. Le contexte littéraire: Le contexte littéraire comprend les versets, les paragraphes, les chapitres et même les livres qui précèdent et suivent le texte à étudier. Normalement, le contexte littéraire est disponible plus facilement que le contexte historique. Par conséquent, nous distinguons le contexte littéraire le plus important et le plus immédiat.
+	2. Le contexte littéraire: Le contexte littéraire comprend les versets, les paragraphes, les chapitres et même les livres qui précèdent et suivent le texte à étudier. Normalement, le contexte littéraire est disponible plus facilement que le contexte historique. Par conséquent, nous distinguons le contexte littéraire le plus important et le plus immédiat.
 
-a. Le contexte littéraire plus large - Le contexte littéraire plus large est Écriture, plus précisément le livre biblique dont le texte est tiré. Ce contexte doit être consulté. Le texte à l'étude fait partie du message général de l'auteur de la Bible et doit, d'une manière ou d'une autre, s'inscrire dans son message. Normalement, les textes ne sont pas totalement déconnectés de leur contexte plus large. Nous cherchons donc à trouver la place du principal argument de l'auteur. Par exemple, la lettre aux Galates traite spécifiquement de la justification par la foi, alors qu'Éphésiens insiste sur la nature de l'église. Le message général ou les thèmes importants d'un livre biblique peuvent être identifiés en essayant de trouver une déclaration de l'auteur nous expliquant son but d'écrire; en décrivant le document; en surveillant la répétition de mots, de phrases ou de thèmes; en se concentrant sur les personnes en interaction; et en prenant note du lieu où l’action se passe et du temps qu’il prend.
+		a. Le contexte littéraire plus large - Le contexte littéraire plus large est Écriture, plus précisément le livre biblique dont le texte est tiré. Ce contexte doit être consulté. Le texte à l'étude fait partie du message général de l'auteur de la Bible et doit, d'une manière ou d'une autre, s'inscrire dans son message. Normalement, les textes ne sont pas totalement déconnectés de leur contexte plus large. Nous cherchons donc à trouver la place du principal argument de l'auteur. Par exemple, la lettre aux Galates traite spécifiquement de la justification par la foi, alors qu'Éphésiens insiste sur la nature de l'église. Le message général ou les thèmes importants d'un livre biblique peuvent être identifiés en essayant de trouver une déclaration de l'auteur nous expliquant son but d'écrire; en décrivant le document; en surveillant la répétition de mots, de phrases ou de thèmes; en se concentrant sur les personnes en interaction; et en prenant note du lieu où l’action se passe et du temps qu’il prend.
 
-Prenons un exemple de Peter. En premier lieu, l'auteur semble se concentrer sur la souffrance. Aucun livre du Nouveau Testament ne fait référence à la souffrance si souvent et développe ce sujet aussi clairement. Mais malgré leurs souffrances, l’apôtre appelle les membres de l’église à une conduite sainte et à de bonnes œuvres, thème secondaire.
+		Prenons un exemple de Peter. En premier lieu, l'auteur semble se concentrer sur la souffrance. Aucun livre du Nouveau Testament ne fait référence à la souffrance si souvent et développe ce sujet aussi clairement. Mais malgré leurs souffrances, l’apôtre appelle les membres de l’église à une conduite sainte et à de bonnes œuvres, thème secondaire.
 
-Le contexte le plus radical est la Bible entière avec son plan de salut. Normalement, chaque texte que nous étudions contient des mots intéressants et des sujets spécifiques. Tout d'abord, ces mots et ces sujets doivent être suivis tout au long du livre biblique dans lequel ils apparaissent. Si l'auteur a écrit plus d'un livre, nous pouvons également les retracer à travers tous ces livres bibliques. Enfin, il est légitime d'aller plus loin et d'explorer la manière dont d'autres auteurs bibliques ont utilisé les mêmes mots et concepts. Il peut y avoir continuité ou discontinuité, bien que les rédacteurs des Écritures ne se contredisent pas. Ils peuvent avoir des priorités différentes. Nous rencontrons ici le principe selon lequel l'Écriture est son propre interprète et qu'un texte peut en illuminer un autre.
+		Le contexte le plus radical est la Bible entière avec son plan de salut. Normalement, chaque texte que nous étudions contient des mots intéressants et des sujets spécifiques. Tout d'abord, ces mots et ces sujets doivent être suivis tout au long du livre biblique dans lequel ils apparaissent. Si l'auteur a écrit plus d'un livre, nous pouvons également les retracer à travers tous ces livres bibliques. Enfin, il est légitime d'aller plus loin et d'explorer la manière dont d'autres auteurs bibliques ont utilisé les mêmes mots et concepts. Il peut y avoir continuité ou discontinuité, bien que les rédacteurs des Écritures ne se contredisent pas. Ils peuvent avoir des priorités différentes. Nous rencontrons ici le principe selon lequel l'Écriture est son propre interprète et qu'un texte peut en illuminer un autre.
 
-b. Le contexte littéraire immédiat - L'une des activités les plus importantes, sinon l'élément le plus important de l'interprétation biblique, est l'étude du contexte littéraire. Même le sens des mots est normalement déterminé par le contexte. Etre capable de discerner comment un texte est intégré dans son contexte aide l'étudiant biblique à éviter les interprétations fausses ou biaisées.
+		b. Le contexte littéraire immédiat - L'une des activités les plus importantes, sinon l'élément le plus important de l'interprétation biblique, est l'étude du contexte littéraire. Même le sens des mots est normalement déterminé par le contexte. Etre capable de discerner comment un texte est intégré dans son contexte aide l'étudiant biblique à éviter les interprétations fausses ou biaisées.
 
-Par exemple, Esaïe 65: 17-25 n'est pas encore la description des nouveaux cieux et de la nouvelle terre, telle qu'elle est décrite dans Apocalypse 21-22. Dans Esaïe 65:20, la mort est toujours présente. Voir aussi Esaïe 65:23 et 66: 23-24. Ceci est une prophétie conditionnelle pour Israël, indiquant un état presque idéal qui n'a jamais été réalisé à l'échelle locale mais qui attend avec impatience la réalisation ultime à l'échelle universelle, telle qu'elle est décrite dans Apocalypse 21-22. De même, 1 Corinthiens 2: 9 ne décrit pas la nouvelle terre, mais la sagesse de Dieu révélée en Jésus pour notre salut. L'étude du contexte inclut également une enquête sur sa structure, la détermination de la délimitation de passages et l'identification de son genre littéraire.
+		Par exemple, Esaïe 65: 17-25 n'est pas encore la description des nouveaux cieux et de la nouvelle terre, telle qu'elle est décrite dans Apocalypse 21-22. Dans Esaïe 65:20, la mort est toujours présente. Voir aussi Esaïe 65:23 et 66: 23-24. Ceci est une prophétie conditionnelle pour Israël, indiquant un état presque idéal qui n'a jamais été réalisé à l'échelle locale mais qui attend avec impatience la réalisation ultime à l'échelle universelle, telle qu'elle est décrite dans Apocalypse 21-22. De même, 1 Corinthiens 2: 9 ne décrit pas la nouvelle terre, mais la sagesse de Dieu révélée en Jésus pour notre salut. L'étude du contexte inclut également une enquête sur sa structure, la détermination de la délimitation de passages et l'identification de son genre littéraire.
 
-(1) La structure: lors de la lecture du contexte immédiat, c’est-à-dire des versets et des paragraphes qui précèdent et suivent le texte à étudier, il convient de garder à l’esprit ces questions: comment notre texte s’intègre-t-il dans le contexte? Comment le texte est-il connecté à ce qui vient avant et à ce qui suit?
+			(1) La structure: lors de la lecture du contexte immédiat, c’est-à-dire des versets et des paragraphes qui précèdent et suivent le texte à étudier, il convient de garder à l’esprit ces questions: comment notre texte s’intègre-t-il dans le contexte? Comment le texte est-il connecté à ce qui vient avant et à ce qui suit?
 
-Parfois, les lecteurs des évangiles du Nouveau Testament et des épîtres ont l’impression que les auteurs sont quelque peu désorganisés dans la présentation de leurs idées ou de leurs récits. Cependant, s’ils sont étudiés avec assiduité, un plan bien organisé et un objectif clair apparaissent. Les auteurs ne suivent pas toujours nos conventions. Par exemple, ils peuvent relier des passages à l’utilisation d’un ou de plusieurs termes théologiques. Les livres bibliques ne sont pas des créations chaotiques, dépourvues de séquence et d’arrangement, mais une excellente littérature. Par conséquent, il est indispensable d’examiner attentivement la structure du contexte pour avoir une idée précise de ce qui se passe.
+			Parfois, les lecteurs des évangiles du Nouveau Testament et des épîtres ont l’impression que les auteurs sont quelque peu désorganisés dans la présentation de leurs idées ou de leurs récits. Cependant, s’ils sont étudiés avec assiduité, un plan bien organisé et un objectif clair apparaissent. Les auteurs ne suivent pas toujours nos conventions. Par exemple, ils peuvent relier des passages à l’utilisation d’un ou de plusieurs termes théologiques. Les livres bibliques ne sont pas des créations chaotiques, dépourvues de séquence et d’arrangement, mais une excellente littérature. Par conséquent, il est indispensable d’examiner attentivement la structure du contexte pour avoir une idée précise de ce qui se passe.
 
-Déterminer la structure d'un passage ou d'un document peut nous aider à comprendre le courant de pensée de l'auteur, à remarquer les connexions entre les différentes parties d'un document et à améliorer notre compréhension du paragraphe.
+			Déterminer la structure d'un passage ou d'un document peut nous aider à comprendre le courant de pensée de l'auteur, à remarquer les connexions entre les différentes parties d'un document et à améliorer notre compréhension du paragraphe.
 
-Le contexte peut être défini en analysant le contenu du document ou en étudiant les caractéristiques littéraires du livre, telles que des mots récurrents, des phrases et des phrases entières. Pour établir une structure, on peut rechercher des motifs théologiques, des personnes mentionnées, des emplacements géographiques, la période de temps d'un document, des chiasmes, des progressions, des parallèles thématiques, des rapports parallèles et des répétitions.
+			Le contexte peut être défini en analysant le contenu du document ou en étudiant les caractéristiques littéraires du livre, telles que des mots récurrents, des phrases et des phrases entières. Pour établir une structure, on peut rechercher des motifs théologiques, des personnes mentionnées, des emplacements géographiques, la période de temps d'un document, des chiasmes, des progressions, des parallèles thématiques, des rapports parallèles et des répétitions.
 
-- Motif théologique - Un motif théologique important dans l'évangile de Luc est le rejet du Messie. C'est répété constamment.
-- Personnes citées - Les personnages par intérim d'Apocalypse 4: 18: 1 sont très différents de ceux mentionnés dans l'Apocalypse 8: 2-11: 18. Dans la vision des phoques, l'agneau apparaît dix fois, dans la vision des trompettes pas du tout. Ceci est également vrai pour les êtres vivants qui se retrouvent douze fois dans Apocalypse 4 à 7 et pas du tout dans la section des trompettes. Cependant, les habitants de la terre sont soulignés dans les trompettes.
-- Emplacements géographiques - Les emplacements géographiques sont assez importants dans l'évangile de Jean et pourraient être utilisés pour le structurer.
-- Cadre temporel: dans Apocalypse, la première partie décrit plusieurs fois la période comprise entre le premier siècle après JC. et la consommation finale, tandis que la deuxième partie se concentre uniquement sur les événements de la fin des temps.
-- Chiasm - Un chiasm est une structure dans laquelle la première section correspond à la toute dernière section, la deuxième du début à la deuxième de la fin, la troisième du début à la troisième, de la fin à la fin, etc. pic simple ou double pic au milieu. Les chiasms sont typiques de la pensée hébraïque.
-```
-Daniel 2 - Quatre empires
-	Daniel 3 - Décret de mort pour les fidèles
-		Daniel 4 - Jugement sur le roi de Babylone
-		Daniel 5 - Jugement sur le roi de Babylone
-	Daniel 6 - Décret de mort pour les fidèles
-Daniel 7 - Quatre empires
-```
-- Progression - La progression se trouve dans les scènes d'introduction de l'Apocalypse, toutes relatives au sanctuaire.
-- Parallèles thématiques - Il existe un parallèle thématique entre la personne née aveugle et celle aveugle spirituellement dans Jean 9.
-- Rapports parallèles - Des rapports parallèles apparaissent dans les récits de conversion de Paul dans Actes 9, 22 et 26.
-- Répétitions - Les répétitions sont fréquentes, par exemple, celles trouvées dans Apocalypse 16: 12-21 par rapport à Apocalypse 17-19.
+			- Motif théologique - Un motif théologique important dans l'évangile de Luc est le rejet du Messie. C'est répété constamment.
+			- Personnes citées - Les personnages par intérim d'Apocalypse 4: 18: 1 sont très différents de ceux mentionnés dans l'Apocalypse 8: 2-11: 18. Dans la vision des phoques, l'agneau apparaît dix fois, dans la vision des trompettes pas du tout. Ceci est également vrai pour les êtres vivants qui se retrouvent douze fois dans Apocalypse 4 à 7 et pas du tout dans la section des trompettes. Cependant, les habitants de la terre sont soulignés dans les trompettes.
+			- Emplacements géographiques - Les emplacements géographiques sont assez importants dans l'évangile de Jean et pourraient être utilisés pour le structurer.
+			- Cadre temporel: dans Apocalypse, la première partie décrit plusieurs fois la période comprise entre le premier siècle après JC. et la consommation finale, tandis que la deuxième partie se concentre uniquement sur les événements de la fin des temps.
+			- Chiasm - Un chiasm est une structure dans laquelle la première section correspond à la toute dernière section, la deuxième du début à la deuxième de la fin, la troisième du début à la troisième, de la fin à la fin, etc. pic simple ou double pic au milieu. Les chiasms sont typiques de la pensée hébraïque.
+			```
+			Daniel 2 - Quatre empires
+				Daniel 3 - Décret de mort pour les fidèles
+					Daniel 4 - Jugement sur le roi de Babylone
+					Daniel 5 - Jugement sur le roi de Babylone
+				Daniel 6 - Décret de mort pour les fidèles
+			Daniel 7 - Quatre empires
+			```
+			- Progression - La progression se trouve dans les scènes d'introduction de l'Apocalypse, toutes relatives au sanctuaire.
+			- Parallèles thématiques - Il existe un parallèle thématique entre la personne née aveugle et celle aveugle spirituellement dans Jean 9.
+			- Rapports parallèles - Des rapports parallèles apparaissent dans les récits de conversion de Paul dans Actes 9, 22 et 26.
+			- Répétitions - Les répétitions sont fréquentes, par exemple, celles trouvées dans Apocalypse 16: 12-21 par rapport à Apocalypse 17-19.
 
-(2) Délimitation des passages: Une autre question soulevée lors de l’étude du contexte puis de l’analyse du texte est la suivante: où sont les limites d’un passage? Où commence et se termine un paragraphe? Déterminer la délimitation des passages devient très important dans le livre de l'Apocalypse.
+			(2) Délimitation des passages: Une autre question soulevée lors de l’étude du contexte puis de l’analyse du texte est la suivante: où sont les limites d’un passage? Où commence et se termine un paragraphe? Déterminer la délimitation des passages devient très important dans le livre de l'Apocalypse.
 
-(3) Le genre littéraire: Un autre problème est le type de littérature utilisé. Trouvons-nous de la prose ou de la poésie? La poésie est souvent assez figurative et métaphorique et ne doit pas être surinterprétée. Cependant, il faut éviter l’autre extrême qui consiste à négliger toute valeur historique trouvée dans la poésie.
+			(3) Le genre littéraire: Un autre problème est le type de littérature utilisé. Trouvons-nous de la prose ou de la poésie? La poésie est souvent assez figurative et métaphorique et ne doit pas être surinterprétée. Cependant, il faut éviter l’autre extrême qui consiste à négliger toute valeur historique trouvée dans la poésie.
 
-Le contexte et / ou le texte sont-ils un rapport historique ou une prophétie? S'il s'agit d'une prophétie, s'agit-il d'une prophétie classique ou d'une prophétie apocalyptique, telle que celle trouvée dans Daniel et l'Apocalypse, pouvant inclure de nombreux symboles et figures fantastiques? La prophétie classique est normalement conditionnelle. Elle peut aussi avoir plus d'un accomplissement, alors que la prophétie apocalyptique "décrit la lutte entre le bien et le mal, ainsi que la victoire et l'établissement ultimes du royaume éternel de Dieu. Elle n'est donc pas conditionnée aux réponses humaines" 5 et représente l'avenir tel qu'il est sera plutôt que comme il peut être.
+			Le contexte et / ou le texte sont-ils un rapport historique ou une prophétie? S'il s'agit d'une prophétie, s'agit-il d'une prophétie classique ou d'une prophétie apocalyptique, telle que celle trouvée dans Daniel et l'Apocalypse, pouvant inclure de nombreux symboles et figures fantastiques? La prophétie classique est normalement conditionnelle. Elle peut aussi avoir plus d'un accomplissement, alors que la prophétie apocalyptique "décrit la lutte entre le bien et le mal, ainsi que la victoire et l'établissement ultimes du royaume éternel de Dieu. Elle n'est donc pas conditionnée aux réponses humaines" 5 et représente l'avenir tel qu'il est sera plutôt que comme il peut être.
 
 ### Sixième étape: analyser le texte
 
