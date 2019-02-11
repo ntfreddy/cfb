@@ -145,35 +145,37 @@ New Testament authors, using the Old Testament, have stressed specific words and
 
 1. Different Kinds of Structures: The structure of verses and paragraphs can be quite different. It must be kept in mind that a structure should not be forced upon a text; rather, it has to be extracted from the text. Therefore, a change of word order or of verse order to fit a structure must be rejected. However, finding the outline of a text may help us considerably to understand and interpret it. Here are a few of the possible patterns: 
 
-	a. A n outline allows us to perceive better the issues the author is presenting, his main line of thought, the digressions he makes, and the arrangement of the material. Luke 12:15-21 can be outlined as follows: 
+a. A n outline allows us to perceive better the issues the author is presenting, his main line of thought, the digressions he makes, and the arrangement of the material. Luke 12:15-21 can be outlined as follows: 
+
+1. Introduction: The principle 12:15 
+2. The parable 12:16-20 
+a. Scene 1: The rich man 12:16-19) 
+(1) Information on him 12:16 
+(2) Soliloquy 12:17-19 
+(a) Question 12:17 
+(b) Answer 12:18-19 
+(Topic: Goods and soul) 
+b. Scene 2: God 12:20 Monolog (Topic: Soul and goods) 
+3. Conclusion: The principle 12:21 
+
+b. In an acrostic outline the letters of the alphabet are successively used at the beginning of successive verses.6  This can be seen only in the original language. 
+
+c. A n inclusion is a kind of envelope structure. A statement at the beginning of a passage is repeated at its end. 
+d. A chiasm can use an ABB'A ' or an ABA ' pattern. They can be extended or joined together, and are found on sentence and on verse level, as well as on the level of large units and even of biblical books. A chiasm appears in the book of Amos (5:4-6a). 
 ```
-		1. Introduction: The principle 12:15 
-		2. The parable 12:16-20 
-			a. Scene 1: The rich man 12:16-19) 
-				(1) Information on him 12:16 
-				(2) Soliloquy 12:17-19 
-					(a) Question 12:17 
-					(b) Answer 12:18-19 
-					(Topic: Goods and soul) 
-			b. Scene 2: God 12:20 Monolog (Topic: Soul and goods) 
-		3. Conclusion: The principle 12:21 
+	A "For thus says the LORD to the house of Israel: SEEK ME AND LIVE; 
+		Β but do not seek Bethel, 
+			C and do not enter into Gilgal D or cross over to Beersheba; 
+			C' for Gilgal shall surely go into exile, 
+		Β' and Bethel shall come to nothing. 
+	A' SEEK THE LORD AND LIVE, or He will break out against the house of Joseph like fire" (NRSV). 
 ```
-	b. In an acrostic outline the letters of the alphabet are successively used at the beginning of successive verses.6  This can be seen only in the original language. 
+e. The most important feature in Hebrew poetry is parallelism. It also extends to the New Testament, because its authors followed Hebrew thinking. In parallelism the second line stands in a close relation to the thought of the first line, either as a repetition, expansion, or contrast. Therefore, one line can be used to explain the other line. 
 
-	c. A n inclusion is a kind of envelope structure. A statement at the beginning of a passage is repeated at its end. 
-	d. A chiasm can use an ABB'A ' or an ABA ' pattern. They can be extended or joined together, and are found on sentence and on verse level, as well as on the level of large units and even of biblical books. A chiasm appears in the book of Amos (5:4-6a). 
-		A "For thus says the LORD to the house of Israel: SEEK ME AND LIVE; 
-			Β but do not seek Bethel, 
-				C and do not enter into Gilgal D or cross over to Beersheba; 
-				C for Gilgal shall surely go into exile, 
-			Β' and Bethel shall come to nothing. 
-		A' SEEK THE LORD AND LIVE, or He will break out against the house of Joseph like fire" (NRSV). 
-	e. The most important feature in Hebrew poetry is parallelism. It also extends to the New Testament, because its authors followed Hebrew thinking. In parallelism the second line stands in a close relation to the thought of the first line, either as a repetition, expansion, or contrast. Therefore, one line can be used to explain the other line. 
+A well-known instance of parallelism exists in Proverbs 9:10. Here we relate the units by setting them in grouped style. 
+The fear of the LORD is the beginning of wisdom, And the knowledge of the Holy One is understanding (NIV). 
 
-	A well-known instance of parallelism exists in Proverbs 9:10. Here we relate the units by setting them in grouped style. 
-	The fear of the LORD is the beginning of wisdom, And the knowledge of the Holy One is understanding (NIV). 
-
-	f. Other features include climax, contrast, and repetition of words, phrases, and thoughts. For instance, in 1 John 1:6-10 all the verses start similarly ("If we"). Three of them begin in precisely the same way: "If we say"(l:6, 8, 10). These three verses are all negative and form a sharp contrast to the verses between them that contain divine promises (1:7, 9). This structure highlights the difference between human claims and God's offer. Furthermore, an intensification takes place with the negative verses (1:6, 8, 10) so that the climax is reached in the last verse. 
+f. Other features include climax, contrast, and repetition of words, phrases, and thoughts. For instance, in 1 John 1:6-10 all the verses start similarly ("If we"). Three of them begin in precisely the same way: "If we say"(l:6, 8, 10). These three verses are all negative and form a sharp contrast to the verses between them that contain divine promises (1:7, 9). This structure highlights the difference between human claims and God's offer. Furthermore, an intensification takes place with the negative verses (1:6, 8, 10) so that the climax is reached in the last verse. 
 
 2. Literary Forms: Literary forms may change as the reader moves from context to the text itself. On the level of the forms we may, for instance, distinguish between confessions, thanksgiving, hymns, royal psalms and eschatological psalms, casuistic law and apodictic law, 7  faith formulas, proverbs, parables, miracle stories, passion narratives, admonitions, litigations, and homilies. In Scripture we find narratives which describe a certain behavior without containing a call to imitate this specific behavior. In addition we encounter reports, commandments, and admonitions that directly or indirectly call for a positive response (Rom 15:4). Behavior that Scripture clearly identifies as morally negative is not to be imitated, but positive attitudes and constructive behavior are. For instance, whereas Abraham's faith is exemplary (Rom. 4) and we are called to follow Christ's footsteps (1 Peter 2:21), Noah's drunkenness is not to be imitated (Gen 9:20-24). 
 
