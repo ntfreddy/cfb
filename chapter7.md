@@ -37,16 +37,16 @@ God's Word is not culturally or historically conditioned but culturally/ histori
 ## 2. Interpreting a Biblical Text
 
 When we talk about a biblical text, we may refer either to an individual verse or to a larger biblical passage containing a number of verses. These are the basic exegetical steps in chronological order:
-	1. Turning to God in prayer
-	2. Reading the text
-	3. Using the best possible reading
-	4. Translating the text
-	5. Investigating the context
-	6. Analyzing the text
-	7. Performing theological analysis
-	8. Applying the text
-	9. Using resources
-	10. Taking time
+1. Turning to God in prayer
+2. Reading the text
+3. Using the best possible reading
+4. Translating the text
+5. Investigating the context
+6. Analyzing the text
+7. Performing theological analysis
+8. Applying the text
+9. Using resources
+10. Taking time
 
 Each of these steps is essential. However, persons not trained in theology or biblical exegesis may want to skip step three, work with an existing translation (step four), and may simplify some other approaches discussed under step six. Even with these adjustments, they will benefit from the historical-biblical approach to Scripture. [3]
 
@@ -77,7 +77,7 @@ All those who do not have access to the respective biblical language should cons
 
 Formal translations seek to stay as close to the original language as possible. The King James Version, the Revised Standard Version, and the New American Standard Bible belong to the category of formal translations. However, some versions may sound somewhat wooden. 
 
-Dynamic translations try to create a relationship between reader and translation similar to that which existed between the original reader and the original text. They are less literal than formal translations. They not only 115  Guidelines for the Interpretation of Scripture analyze the text but try to restructure it. The New English Bible (NEB) and Today s English Version (TEV) belong to this type of translation, whereas the New International Version (NIV) stands between the formal and the dynamic translations. 
+Dynamic translations try to create a relationship between reader and translation similar to that which existed between the original reader and the original text. They are less literal than formal translations. They not only Scripture analyze the text but try to restructure it. The New English Bible (NEB) and Today s English Version (TEV) belong to this type of translation, whereas the New International Version (NIV) stands between the formal and the dynamic translations. 
 
 Good English translations include the King James Version, although the language is sometimes outdated and, on occasion, difficult to understand. Furthermore, the Greek manuscripts used for the KJV do not inelude better manuscripts discovered later. The New King James Version (NKJV), the Revised Standard Version (RSV), the New International Version (NIV), the American Standard Version (ASV), and the New American Standard Bible (NASB) are based on the most ancient manuscripts, with the latter two being the most literal English translations. 
 
@@ -111,11 +111,11 @@ Determining the structure of a passage or a document may help us to understand t
 
 Outlining the context may be achieved by analyzing the content of the document or studying the literary features of the book, such as recurring words, phrases, and whole sentences. To establish a structure one may look for theological motifs, persons being mentioned, geographical locations, the time frame of a document, chiasms, progressions, thematic parallels, parallel reports, and repetitions. 
 
-• Theological Motif—An important theological motif in the Gospel of Luke is the rejection of the Messiah. It is constantly repeated. 
-• Persons Being Mentioned—Acting personages of Revelation 4:18:1 differ widely from those mentioned in Revelation 8:2-11:18. In the vision of the seals the lamb appears ten times, in the vision of the trumpets not at all. This is also true for the living beings who are found twelve times in Revelation 4-7 and not at all in the trumpets section. However, the inhabitants of the earth are emphasized in the trumpets. 
-• Geographic Locations—Geographic locations are quite important in John's Gospel and could be used to structure it. 
-• Time Frame—In Revelation, the first part portrays several times the period between the first century A.D . and the final consummation, whereas the second part focuses on end time events only. 
-• Chiasm — A chiasm is a structure in which the first section corresponds with the very last section, the second from the beginning with the second from the end, the third from the beginning with the third from the end, etc. It may have a single peak or a double peak in the middle. Chiasms are typical of Hebrew thinking. 
+- Theological Motif—An important theological motif in the Gospel of Luke is the rejection of the Messiah. It is constantly repeated. 
+- Persons Being Mentioned—Acting personages of Revelation 4:18:1 differ widely from those mentioned in Revelation 8:2-11:18. In the vision of the seals the lamb appears ten times, in the vision of the trumpets not at all. This is also true for the living beings who are found twelve times in Revelation 4-7 and not at all in the trumpets section. However, the inhabitants of the earth are emphasized in the trumpets. 
+- Geographic Locations—Geographic locations are quite important in John's Gospel and could be used to structure it. 
+- Time Frame—In Revelation, the first part portrays several times the period between the first century A.D . and the final consummation, whereas the second part focuses on end time events only. 
+- Chiasm — A chiasm is a structure in which the first section corresponds with the very last section, the second from the beginning with the second from the end, the third from the beginning with the third from the end, etc. It may have a single peak or a double peak in the middle. Chiasms are typical of Hebrew thinking. 
 
 Daniel 2 — Four empires 
 	Daniel 3 — Death decree for the faithful 
@@ -124,10 +124,10 @@ Daniel 2 — Four empires
 	Daniel 6 — Death decree for the faithful 
 Daniel 7 — Four empires 
 
-• Progression—Progression is found in the introductory scenes of Revelation, all of them relating to the sanctuary. 
-• Thematic parallels—A thematic parallel exists between the person born blind and those spiritually blind in John 9. 
-• Parallel reports—Parallel reports occur in the conversion stories of Paul in Acts 9, 22, and 26. 
-• Repetitions—Repetitions are frequent, for instance, those found in Revelation 16:12-21 as compared with Revelation 17-19. 
+- Progression—Progression is found in the introductory scenes of Revelation, all of them relating to the sanctuary. 
+- Thematic parallels—A thematic parallel exists between the person born blind and those spiritually blind in John 9. 
+- Parallel reports—Parallel reports occur in the conversion stories of Paul in Acts 9, 22, and 26. 
+- Repetitions—Repetitions are frequent, for instance, those found in Revelation 16:12-21 as compared with Revelation 17-19. 
 
 (2) Delimitation of Passages: Another question raised when studying the context and later when analyzing the text is: Where are the boundaries of a passage? Where does a paragraph start and end? Determining the delimitation of passages becomes very important in the Book of Revelation. 
 
@@ -146,7 +146,7 @@ New Testament authors, using the Old Testament, have stressed specific words and
 1. Different Kinds of Structures: The structure of verses and paragraphs can be quite different. It must be kept in mind that a structure should not be forced upon a text; rather, it has to be extracted from the text. Therefore, a change of word order or of verse order to fit a structure must be rejected. However, finding the outline of a text may help us considerably to understand and interpret it. Here are a few of the possible patterns: 
 
 	a. A n outline allows us to perceive better the issues the author is presenting, his main line of thought, the digressions he makes, and the arrangement of the material. Luke 12:15-21 can be outlined as follows: 
-
+```
 		1. Introduction: The principle 12:15 
 		2. The parable 12:16-20 
 			a. Scene 1: The rich man 12:16-19) 
@@ -157,6 +157,7 @@ New Testament authors, using the Old Testament, have stressed specific words and
 					(Topic: Goods and soul) 
 			b. Scene 2: God 12:20 Monolog (Topic: Soul and goods) 
 		3. Conclusion: The principle 12:21 
+```
 	b. In an acrostic outline the letters of the alphabet are successively used at the beginning of successive verses.6  This can be seen only in the original language. 
 
 	c. A n inclusion is a kind of envelope structure. A statement at the beginning of a passage is repeated at its end. 
