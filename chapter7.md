@@ -116,14 +116,14 @@ Outlining the context may be achieved by analyzing the content of the document o
 - Geographic Locations—Geographic locations are quite important in John's Gospel and could be used to structure it. 
 - Time Frame—In Revelation, the first part portrays several times the period between the first century A.D . and the final consummation, whereas the second part focuses on end time events only. 
 - Chiasm — A chiasm is a structure in which the first section corresponds with the very last section, the second from the beginning with the second from the end, the third from the beginning with the third from the end, etc. It may have a single peak or a double peak in the middle. Chiasms are typical of Hebrew thinking. 
-
+```
 Daniel 2 — Four empires 
 	Daniel 3 — Death decree for the faithful 
 		Daniel 4 — Judgment on Babylon's king 
 		Daniel 5 — Judgment on Babylon's king 
 	Daniel 6 — Death decree for the faithful 
 Daniel 7 — Four empires 
-
+```
 - Progression—Progression is found in the introductory scenes of Revelation, all of them relating to the sanctuary. 
 - Thematic parallels—A thematic parallel exists between the person born blind and those spiritually blind in John 9. 
 - Parallel reports—Parallel reports occur in the conversion stories of Paul in Acts 9, 22, and 26. 
