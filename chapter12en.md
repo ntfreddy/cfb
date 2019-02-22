@@ -134,13 +134,13 @@ _Example:_    In  Romans,   Paul  develops  justification  and  righteousness  b
 
 The  following  approach  to  a study of the  Epistles  will  prove  helpful:  
 
-1.    Because  of  the  varied  nature  of  the  content  of  the  Epistles,  the  practice  of  reading  an  Epistle through in one  sitting is  a  sound  procedure.  
+1. Because  of  the  varied  nature  of  the  content  of  the  Epistles,  the  practice  of  reading  an  Epistle through in one  sitting is  a  sound  procedure.  
 
-2.     Then reread  it slowly  and  carefully.  
+2. Then reread  it slowly  and  carefully.  
 
-3.    On  a  sheet of paper, divide the  content  of the  Epistle  into  logical  sections.   One  section  for theological  study,  another  for  identifying  problems  the writer is addressing,  another  section  for counsel  and  for advice in practical Christian living,  etc. Having done this, each section  can  be given undivided  attention.  
+3. On  a  sheet of paper, divide the  content  of the  Epistle  into  logical  sections.   One  section  for theological  study,  another  for  identifying  problems  the writer is addressing,  another  section  for counsel  and  for advice in practical Christian living,  etc. Having done this, each section  can  be given undivided  attention.  
 
-4.     While  dividing  an  Epistle  into  sections  for  further   study,   note   words  that  may  produce  insights  from  a word  study.  For  example,  comparing verses in which  Paul  uses the  word  "righteous"  or  "righteousness"  is  an  interesting  study.   It will  be  seen  that  these two  words  are  used  to  address the  faith  experience  as  well  as  living  a  life of  obedience.  
+4. While  dividing  an  Epistle  into  sections  for  further   study,   note   words  that  may  produce  insights  from  a word  study.  For  example,  comparing verses in which  Paul  uses the  word  "righteous"  or  "righteousness"  is  an  interesting  study.   It will  be  seen  that  these two  words  are  used  to  address the  faith  experience  as  well  as  living  a  life of  obedience.  
 
 First Corinthians  15:29 produces interesting results  from  a word  study.  This  is  the  sole  verse  used  by  some  people  to  support  vicarious  baptism  and  thus  salvation for the  dead.  In this word  study two things  must  be  noted: (1) the use  of the  Greek preposition huper,  generally translated  "for" or "on  behalf of";  and  (2) the presence and  the  absence of the  definite article ("the  dead" and  "dead people,"  in  general).  
 
