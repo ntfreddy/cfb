@@ -134,6 +134,7 @@ The  acquisition of wisdom was  preceded  by  the  "fear  [reverence] of the  LO
 
 What  is  a proverb?  The  term   proverb   is  difficult  to  define.  The  Hebrew term măsăl   ("saying," "song,")  has  a broad range of meanings,  making  it somewhat  imprecise  for  a valid  definition.  The  Hebrew  verbal root 171 Reading  Psalm  and  the  Wisdom  Literature  "seems to  indicate  comparison,  a  meaning  that  is illustrated, implicitly  or  explicitly,  in very  many  of the  sayings  of the  book."11  We  perhaps  could  say  that  a  proverb  compares,  contrasts,  points  to  similar or  dissimilar elements,  expressing   ideas  in  popular  sayings  that  contain  an  explicit  or  implicit  teaching.  Such  proverbs  were  very  much  a  part  of  daily  life   as   1  Samuel   10:12  and  24:13  indicate.   In  general  the  book of Proverbs  has  a  very  high view of the  role  and  of the  importance  of wisdom  in  human  existence,  without denying  some of its limitations. Widsom, a divine characteristic,  is personified  in the  book  as  a  being who  interacts  with  human  beings.   In  1:20-33;  8:1-3;  9:1-6,  13-18,  she  (wisdom)  is  set  in opposition to  a "foolish woman."  In other  places, wisdom's  activities closely parallel those ofYahweh.   Both pour  out  the  Spirit (Proverbs  1:23;  Isa  44:3);  both  called  Israel,  but  it refused  to  answer  (Proverbs  1:24;  Isa  66:4);  both  promote justice  (Proverbs  8:15;  Isa  11:4,  5); etc.   Wisdom  is the  essence of  the  being of God. Proverbs  is written in poetic  form;  therefore,  the principles used in the interpretation  of poetry  also  apply  to  the  study  of this  book.  Apart  from  that,  the  interpretation of  Proverbs could  be  facilitated by taking into consideration  the  following  suggestions:  First,  one  should  become  acquainted  with  the  structure  of the  book.  It  is  formed  by  several  collections of proverbs   from  different individuals, written  at  different  historical  periods.  
 
+```
 1:1-9:18               Proverbs     of    Solomon
 	1:1-7        	 		Title  and Introduction
 	1:8-9:18        		Main  Text  
@@ -156,6 +157,7 @@ What  is  a proverb?  The  term   proverb   is  difficult  to  define.  The  Heb
 	31:1                 	Title
 	31:2-9               	Main  Text  
 31:10-31               	Acrostic   Poem   to  the   "Good    Wife "
+```
 
 This outline is useful  if one  is interested  in comparing  the contribution of  each collection to  a particular  subject.  It is intriguing to find two  collections of  proverbs  from  individuals who may not have been Israelites  (Agur  and  Lemuel). How did their proverbs   find   a place in the  book?  The  most  logical  suggestion  is  that  the  Lord  guided  the  prophet  in the  selection  of  that  material,  because it contained  truths  compatible  with  God's  revealed  will  for  Israel.  
 
@@ -180,30 +182,30 @@ First,  the  book  primarily  consists  of  dialogs   between   Job   and   his 
 Second, the  dialog is formed by  the  following  three  cycles  introduced  by  a speech of Job  (chapter  3):  
 
 **First Cycle** 
-
+```
 Eliphaz's  Speech          Job  4-5  
 	Job's Response      Job  6-7  
 Bildad's  Speech            Job  8  
 	Job's Response      Job  9-10  
 Zophar's  Speech           Job  11  
 	Job's Response      Job   12-14   
-	
+```	
 **Second  Cycle**  
-
+```
 Eliphaz's  Speech          Job  15  
 	Job's  Response     Job   16-17   
 Bildad's  Speech            Job   18   
 	Job's Response      Job  19  
 Zophar's  Speech           Job  20  
 	Job's Response      Job  21  
-
+```
 Third  Cycle  
-
+```
 Eliphaz's  Speech          Job  22  
 	Job's Response      Job  23-24  
 Bildad's  Speech            Job  25  
 	Job's Response      Job  26-27  
-
+```
 This  organization  is useful  to  the  interpreter  in  at  least two ways:  (a)  By  reading  all the  speeches of each of Job's  friends  in one  sitting, one  is  able to understand  their arguments better. Reading  all of  Job's responses in the  same way  will  also facilitate the  comprehension  of what  he  is  saying,  as well  as the intensity of  his psychological, theological, and spiritual pain, (b)  If the  speeches  are  read  in the  order  given in the  text  one  will  be  able  to  establish  more  clearly  the  areas of  agreements  and  of  disagreements  between  Job  and  his   friends.   
 
 Third,  the  interpretation of Job  29:1-31:40  is important  for the  understanding  of the  book.  This monolog  seems to  precipitate  the  "resolution"  of  the plot in the book. In chapter 31, Job  appears to pronounce  an oath of 175 Reading  Psalm and the  Wisdom  Literature  innocence.  If  this  is correct, it means that  Job  is demanding that God  present the  evidence  He  has  against him or otherwise exonerate  him from  any  charges.  This is the climax of Job's defense;  from  that point on he  remains  silent, waiting  for God to  speak.  
