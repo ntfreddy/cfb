@@ -199,7 +199,7 @@ Discours Job de Bildad 18
 Discours Job de Zophar 20
 	Réponse de Job Job 21
 ```
-Troisième cycle
+**Troisième cycle**
 ```
 Eliphaz's Speech Job 22
 	Réponse de Job Job 23-24
