@@ -25,19 +25,19 @@ La correspondance d'un vers ou d'une ligne avec un autre, j'appelle le parallél
 
 Lowth distingue trois types fondamentaux de parallélisme: synonyme, antithétique et synthétique, une division encore utilisée de nos jours.
 
-** Parallélisme ** - La pensée de la première ligne est répétée dans la seconde ligne avec des mots différents:
+**Parallélisme** - La pensée de la première ligne est répétée dans la seconde ligne avec des mots différents:
 
 Proverbes 1:20 La sagesse appelle à haute voix dehors; Elle élève la voix sur la place.
 
 Isaiah 2:17 La hauteur de l'homme sera courbée, et la hauteur des hommes sera réduite.
 
-** Parallélisme antithétique ** - La deuxième ligne contraste ou nie la pensée et le sens de la première ligne. Fréquemment, la deuxième ligne est introduite par "mais".
+**Parallélisme antithétique** - La deuxième ligne contraste ou nie la pensée et le sens de la première ligne. Fréquemment, la deuxième ligne est introduite par "mais".
 
 Proverbes 14:30 Un cœur sain, c'est la vie du corps, Mais l'envie, c'est de la pourriture des os.
 
 Proverbes 16:25 Il y a une voie qui semble juste à un homme, mais sa fin est la voie de la mort.
 
-** Parallélisme synthétique ou formel **: ce parallélisme n'est pas aussi clair que les deux autres. Fondamentalement, la deuxième ligne développe ou complète la pensée de la première ligne.
+**Parallélisme synthétique ou formel**: ce parallélisme n'est pas aussi clair que les deux autres. Fondamentalement, la deuxième ligne développe ou complète la pensée de la première ligne.
 Psaume 28: 6 Béni soit le Seigneur, qui a entendu la voix de mes supplications!
 
 Ici, la première ligne fait une déclaration et la deuxième ligne fournit la raison.
@@ -48,11 +48,11 @@ La première ligne pose une question; la deuxième ligne fournit la réponse. De
 
 Psaume 42: 1 Comme le cerf protège contre les ruisseaux, Ainsi protège mon âme pour toi, ô Dieu.
 
-Le parallélisme * Climactique ou Escalier * répète et avance le message par étapes successives. La pensée semble monter en trois étapes ou plus:
+Le parallélisme *Climactique ou Escalier* répète et avance le message par étapes successives. La pensée semble monter en trois étapes ou plus:
 
 Psaume 29: 1 -2 Donnez à l'Éternel, vous les puissants, donnez à l'Éternel gloire et force. Donne à l'Éternel la gloire due à son nom; Adorez le Seigneur dans la beauté de la sainteté.
 
-* Le parallélisme Chiastic * [2] inverse les mots ou les pensées en lignes successives. Ainsi, ce qui était en premier dans la première ligne apparaît en dernier dans la deuxième ligne:
+*Le parallélisme Chiastic* [2] inverse les mots ou les pensées en lignes successives. Ainsi, ce qui était en premier dans la première ligne apparaît en dernier dans la deuxième ligne:
 
 Psaume 30: 8 Je me suis écrié, Éternel! Et à l'Éternel j'ai fait des supplications:
 
@@ -62,25 +62,25 @@ Plusieurs psaumes sont composés dans un modèle acrostiche dans lequel la lettr
 
 #### 1. Chiffres de comparaison
 
-* Simile * - Une figure de style dans laquelle deux choses fondamentalement différentes sont comparées par l'utilisation d'une introduction "like" ou "as". Psaume 42: 1 "De même que le cerf protège les ruisseaux, ainsi mon âme pour toi, mon Dieu." Une comparaison est la figure de style la plus facilement reconnaissable.
+*Simile* - Une figure de style dans laquelle deux choses fondamentalement différentes sont comparées par l'utilisation d'une introduction "like" ou "as". Psaume 42: 1 "De même que le cerf protège les ruisseaux, ainsi mon âme pour toi, mon Dieu." Une comparaison est la figure de style la plus facilement reconnaissable.
 
-* Métaphore * - Dans une métaphore, l'auteur décrit une chose en termes d'une autre. La comparaison est simplement implicite. Psaume 18: 2 "L'Eternel est mon rocher, ma forteresse et mon libérateur; Mon Dieu, ma force, en qui j'aurai confiance. Mon bouclier et la corne de mon salut, ma forteresse." Dieu était à David comme la force du rocher et la couverture d'un bouclier le protégeant de ses ennemis.
+*Métaphore* - Dans une métaphore, l'auteur décrit une chose en termes d'une autre. La comparaison est simplement implicite. Psaume 18: 2 "L'Eternel est mon rocher, ma forteresse et mon libérateur; Mon Dieu, ma force, en qui j'aurai confiance. Mon bouclier et la corne de mon salut, ma forteresse." Dieu était à David comme la force du rocher et la couverture d'un bouclier le protégeant de ses ennemis.
 
-* Parabole *: une comparaison étendue devient une parabole. C'est une courte histoire qui donne une leçon par comparaison. La parabole de Dieu dans Esaïe 5: 1-5 décrit la déception de Dieu avec la vigne qui ne produisait que des raisins sauvages ou aigres. Le point de comparaison principal est reconnu à la fin du récit: "La vigne du Seigneur des armées est la maison d'Israël."
+*Parabole*: une comparaison étendue devient une parabole. C'est une courte histoire qui donne une leçon par comparaison. La parabole de Dieu dans Esaïe 5: 1-5 décrit la déception de Dieu avec la vigne qui ne produisait que des raisins sauvages ou aigres. Le point de comparaison principal est reconnu à la fin du récit: "La vigne du Seigneur des armées est la maison d'Israël."
 
-* Allégorie * - Une métaphore étendue devient une allégorie. Dans l'allégorie de Proverbes 5.15-23, le point principal est la fidélité conjugale. "La comparaison établie entre la pratique de la consommation d'eau potable dans son propre puits et la nécessité d'être fidèle dans les responsabilités conjugales et les privilèges du mariage." [4]
+*Allégorie* - Une métaphore étendue devient une allégorie. Dans l'allégorie de Proverbes 5.15-23, le point principal est la fidélité conjugale. "La comparaison établie entre la pratique de la consommation d'eau potable dans son propre puits et la nécessité d'être fidèle dans les responsabilités conjugales et les privilèges du mariage." [4]
 
 #### 2. Figures de la plénitude de l'expression
 
-* Paronomasia * - Pararoma est un jeu de mots dans lequel des mots avec un son similaire mais pas nécessairement le même sens sont répétés. Par exemple, Proverbes 11:18 dit: "Le méchant fait un travail trompeur (săqer), mais celui qui sème la justice aura une récompense sûre (seker). Les mots du mot" trompeur "et" récompense "(sqer et seker) ) sont similaires mais leur signification est différente (voir aussi la similitude des mots pour "trouble" (şărăh) et "petit" (sar) dans Proverbes 24:10. Cet effet littéraire est généralement perdu dans la traduction.
+*Paronomasia* - Pararoma est un jeu de mots dans lequel des mots avec un son similaire mais pas nécessairement le même sens sont répétés. Par exemple, Proverbes 11:18 dit: "Le méchant fait un travail trompeur (săqer), mais celui qui sème la justice aura une récompense sûre (seker). Les mots du mot" trompeur "et" récompense "(sqer et seker) ) sont similaires mais leur signification est différente (voir aussi la similitude des mots pour "trouble" (şărăh) et "petit" (sar) dans Proverbes 24:10. Cet effet littéraire est généralement perdu dans la traduction.
 
-* Hyperbole * - Ceci est une exagération ou une exagération consciente, par exemple, Psaume 78:27, "Il leur donna aussi de la viande comme de la poussière, Des oiseaux à plumes comme du sable des mers." Ce texte fait partie d'un récit poétique graphique du miracle des cailles. Pour souligner les pluies de bénédictions divines, le nombre de cailles est comparé au sable de la mer.
+*Hyperbole* - Ceci est une exagération ou une exagération consciente, par exemple, Psaume 78:27, "Il leur donna aussi de la viande comme de la poussière, Des oiseaux à plumes comme du sable des mers." Ce texte fait partie d'un récit poétique graphique du miracle des cailles. Pour souligner les pluies de bénédictions divines, le nombre de cailles est comparé au sable de la mer.
 
 #### 3. Chiffres d'association
 
-* Métonymie * - Dans cette figure de style, une idée est évoquée ou nommée au moyen d'un mot faisant référence à une notion associée. Psaume 47: 8, "Dieu règne sur les nations; Il est assis sur son saint trône". Le trône de Dieu représente son règne.
+*Métonymie* - Dans cette figure de style, une idée est évoquée ou nommée au moyen d'un mot faisant référence à une notion associée. Psaume 47: 8, "Dieu règne sur les nations; Il est assis sur son saint trône". Le trône de Dieu représente son règne.
 
-* Synecdoche * - Une figure de style dans laquelle le tout peut être mis pour une partie ou une partie pour le tout. Psaume 26:10, "Dans les mains duquel se trouve un sinistre stratagème et dans lequel la droite est pleine de pots-de-vin." La main droite en tant que partie du corps représente la personne entière.
+*Synecdoche* - Une figure de style dans laquelle le tout peut être mis pour une partie ou une partie pour le tout. Psaume 26:10, "Dans les mains duquel se trouve un sinistre stratagème et dans lequel la droite est pleine de pots-de-vin." La main droite en tant que partie du corps représente la personne entière.
 
 Lorsqu’il s’agit de figures de comparaison, d’association ou de plénitude, l’interprète doit veiller à ne pas les pousser au-delà de ce que l’auteur avait voulu au départ. "Les figures du langage ne sont pas aussi précises que la prose. Le manque de précision de ces figures est cependant compensé par leur plus grande capacité à dessiner des images et à donner une vivacité que la prose ordinaire ne peut pas." 5]
 
@@ -88,33 +88,33 @@ Lorsqu’il s’agit de figures de comparaison, d’association ou de plénitude
 
 La poésie hébraïque trouve son origine dans la vie du peuple. Cependant, ce n'était pas récréatif mais fonctionnel. Il a joué un rôle important dans la vie de la nation d'Israël, en particulier dans ses relations avec Dieu. Par conséquent, les messages prophétiques étaient fréquemment donnés sous forme poétique. Non seulement ils se rappelaient plus facilement, mais ils étaient aussi plus émotifs et puissants dans leur message.
 
-** _ Chants de guerre _ ** - Les chants de guerre ont été l'une des premières formes de poésie (Juges 7:18, 20). Les plus connus sont les chants de victoire de Moïse (Ex 15.1-18) et de Deborah (Judg 5). Ils s'attachent généralement avec passion au pouvoir de Dieu, qui a vaincu l'ennemi.
+**_Chants de guerre_** - Les chants de guerre ont été l'une des premières formes de poésie (Juges 7:18, 20). Les plus connus sont les chants de victoire de Moïse (Ex 15.1-18) et de Deborah (Judg 5). Ils s'attachent généralement avec passion au pouvoir de Dieu, qui a vaincu l'ennemi.
 
-** _ Chants d'amour _ ** —La chanson d'amour la plus célèbre dans les Écritures est le livre des Cantiques. Ruth 1: 16-17 est une autre expression poétique de l'amour humain, dans laquelle Ruth prononce certaines des paroles les plus mémorables de toutes les Écritures.
+**_Chants d'amour_** —La chanson d'amour la plus célèbre dans les Écritures est le livre des Cantiques. Ruth 1: 16-17 est une autre expression poétique de l'amour humain, dans laquelle Ruth prononce certaines des paroles les plus mémorables de toutes les Écritures.
 
-** _ Lamentations _ ** - La lamentation, un appel angoissé à Dieu, est la forme poétique la plus répandue dans les psaumes. Plus de soixante psaumes sont individuels (Psaume 3) ou corporatifs (Psaume 9). En règle générale, une plainte regroupe plusieurs éléments, ou tous les éléments suivants: (a) Le message adressé à Dieu: Psaume 22: 1, "Mon Dieu, mon Dieu". (b) Une description de la détresse: Psaume 57: 4, "Mon âme est parmi les lions; Je me couche parmi les fils d'hommes incendiés, dont les dents sont des lances et des flèches." (c) Appel à la délivrance: Psaume 3: 7, "Lève-toi, Éternel! sauve-moi, mon Dieu!" (d) Une déclaration de confiance en Dieu: Psaume 28: 7, "L'Eternel est ma force et mon bouclier; Mon coeur a confiance en lui." (e) Une confession de péché: Psaume 51: 4, "J'ai péché contre toi seul, et j'ai fait ce mal à tes yeux." (f) Un voeu de faire certaines choses: Psaume 61: 5, "Pour toi, ô Dieu, a entendu mes voeux." (g) Une conclusion, qui peut prendre la forme d'une louange ou d'une gratitude: Psaume 30:12, "Éternel, mon Dieu, je te rendrai grâce pour toujours." 5
+**_Lamentations_** - La lamentation, un appel angoissé à Dieu, est la forme poétique la plus répandue dans les psaumes. Plus de soixante psaumes sont individuels (Psaume 3) ou corporatifs (Psaume 9). En règle générale, une plainte regroupe plusieurs éléments, ou tous les éléments suivants: (a) Le message adressé à Dieu: Psaume 22: 1, "Mon Dieu, mon Dieu". (b) Une description de la détresse: Psaume 57: 4, "Mon âme est parmi les lions; Je me couche parmi les fils d'hommes incendiés, dont les dents sont des lances et des flèches." (c) Appel à la délivrance: Psaume 3: 7, "Lève-toi, Éternel! sauve-moi, mon Dieu!" (d) Une déclaration de confiance en Dieu: Psaume 28: 7, "L'Eternel est ma force et mon bouclier; Mon coeur a confiance en lui." (e) Une confession de péché: Psaume 51: 4, "J'ai péché contre toi seul, et j'ai fait ce mal à tes yeux." (f) Un voeu de faire certaines choses: Psaume 61: 5, "Pour toi, ô Dieu, a entendu mes voeux." (g) Une conclusion, qui peut prendre la forme d'une louange ou d'une gratitude: Psaume 30:12, "Éternel, mon Dieu, je te rendrai grâce pour toujours." 5
 
-** _ Hymns _ ** - Des hymnes ou chants de louange ont été utilisés dans le culte de Dieu. Les érudits ont identifié trois types spécifiques d’hymnes dans lesquels Dieu est loué: (a) Créateur (Pss 8, 19, 104, 148), (b) Protecteur d’Israël (66, 100, 111, 114) et (c) Seigneur de l'histoire (33, 103, 105-106, 135) .7 De plus, il existe des hymnes d'action de grâce qui expriment la gratitude envers Dieu pour sa réponse à des prières spécifiques (Pss 18, 30, 32, 65, 67).
+**_Hymns_** - Des hymnes ou chants de louange ont été utilisés dans le culte de Dieu. Les érudits ont identifié trois types spécifiques d’hymnes dans lesquels Dieu est loué: (a) Créateur (Pss 8, 19, 104, 148), (b) Protecteur d’Israël (66, 100, 111, 114) et (c) Seigneur de l'histoire (33, 103, 105-106, 135) .7 De plus, il existe des hymnes d'action de grâce qui expriment la gratitude envers Dieu pour sa réponse à des prières spécifiques (Pss 18, 30, 32, 65, 67).
 
-** _ Psaumes d'imprécation _ ** - Il s'agit généralement de psaumes de lamentation dans lesquels le désir de confirmation de l'auteur, fondé sur le principe de la rétribution, le lex talionis, est particulièrement important (Ps 12, 35, 52, 58-59, 69, 70, 83, 109, 137). Fréquemment, les énoncés de ces psaumes choquent les oreilles modernes: «Heureux celui qui prend et darde vos petits contre le rocher! (Psaume 137: 9). Cependant, il convient de rappeler que la pensée derrière le désir de vengeance est biblique (Deut 32:35, "La vengeance est mienne"); comment il est exprimé est humain. "Une partie du langage provient des jurons de l'alliance ... Dans d'autres cas, les concepts et la phraséologie semblent être empruntés à une activité punitive divine au cours de l'histoire contre les pécheurs." 8 Le langage hyperbolique est courant dans de tels passages émotionnels.
+**_Psaumes d'imprécation_** - Il s'agit généralement de psaumes de lamentation dans lesquels le désir de confirmation de l'auteur, fondé sur le principe de la rétribution, le lex talionis, est particulièrement important (Ps 12, 35, 52, 58-59, 69, 70, 83, 109, 137). Fréquemment, les énoncés de ces psaumes choquent les oreilles modernes: «Heureux celui qui prend et darde vos petits contre le rocher! (Psaume 137: 9). Cependant, il convient de rappeler que la pensée derrière le désir de vengeance est biblique (Deut 32:35, "La vengeance est mienne"); comment il est exprimé est humain. "Une partie du langage provient des jurons de l'alliance ... Dans d'autres cas, les concepts et la phraséologie semblent être empruntés à une activité punitive divine au cours de l'histoire contre les pécheurs." 8 Le langage hyperbolique est courant dans de tels passages émotionnels.
 
 #### Lignes directrices pour l'interprétation de la poésie hébraïque
 
 La poésie appelle à une approche herméneutique différente de celle utilisée dans la narration. Le récit apporte des informations et enseigne par des illustrations; la poésie fait place à une expression d'inspiration plus libre. Voici quelques directives de base pour interpréter la poésie hébraïque.
 
-**_1. Prenez note du modèle du poème ou de l'hymne _ ** - L'élément principal de la poésie hébraïque est le modèle de lignes parallèles indiqué ci-dessus.
+**_1. Prenez note du modèle du poème ou de l'hymne_** - L'élément principal de la poésie hébraïque est le modèle de lignes parallèles indiqué ci-dessus.
 
-** _ 2. Lignes parallèles de groupe _ ** - Etant donné que le poète utilise un langage coloré et très émotif, l'interprète doit tracer une ligne de démarcation entre la lecture excessive de lignes individuelles et la prise en charge du synonyme lorsque les pensées sont similaires. Le contexte doit indiquer si les clauses sont synonymes ou non.
+**_2. Lignes parallèles de groupe_** - Etant donné que le poète utilise un langage coloré et très émotif, l'interprète doit tracer une ligne de démarcation entre la lecture excessive de lignes individuelles et la prise en charge du synonyme lorsque les pensées sont similaires. Le contexte doit indiquer si les clauses sont synonymes ou non.
 
-** _ 3. Étudiez le langage métaphorique _ ** - En poésie hébraïque, le langage figuré est prédominant et plus difficile à comprendre que la prose. Job 38 et Psaume 19 ne sont pas destinés à enseigner la cosmologie hébraïque; ni la déclaration "Je lèverai les yeux vers les collines, d'où vient mon aide" (Psaume 121: 1, LSG) signifie que Dieu habite sur les collines. Néanmoins, le fond de telles images ajoute de la richesse et de la profondeur à la compréhension de ces passages.
+**_3. Étudiez le langage métaphorique_** - En poésie hébraïque, le langage figuré est prédominant et plus difficile à comprendre que la prose. Job 38 et Psaume 19 ne sont pas destinés à enseigner la cosmologie hébraïque; ni la déclaration "Je lèverai les yeux vers les collines, d'où vient mon aide" (Psaume 121: 1, LSG) signifie que Dieu habite sur les collines. Néanmoins, le fond de telles images ajoute de la richesse et de la profondeur à la compréhension de ces passages.
 
-** _ 4. Dans la mesure du possible, notez le contexte historique du texte _ ** - Dans le livre du psaume, les titres de quatorze psaumes (3, 7, 18, 30, 34, 51, 52, 54, 56, 57, 59, 60, 63 , 142) fournissent des références historiques. Bien que les spécialistes aient débattu de l'authenticité de ces titres, il n'y a aucune raison de douter de la fiabilité fondamentale de ces titres, même s'ils ne sont pas nécessairement inspirés. Les commentaires et les dictionnaires sont utiles pour éclairer l'arrière-plan de ces psaumes.
+**_4. Dans la mesure du possible, notez le contexte historique du texte_** - Dans le livre du psaume, les titres de quatorze psaumes (3, 7, 18, 30, 34, 51, 52, 54, 56, 57, 59, 60, 63 , 142) fournissent des références historiques. Bien que les spécialistes aient débattu de l'authenticité de ces titres, il n'y a aucune raison de douter de la fiabilité fondamentale de ces titres, même s'ils ne sont pas nécessairement inspirés. Les commentaires et les dictionnaires sont utiles pour éclairer l'arrière-plan de ces psaumes.
 
-** _ 5. Étudiez les textes poétiques en fonction de leur type et de leur attitude de base _ ** - Un psaume imprécateur doit être étudié différemment d'un psaume de louange.9 Les déclarations sur la relation de Dieu avec les gens dans les proverbes et les ecclésiastiques varient d'un type à l'autre (proverbes, didactiques) dictionnaires expérientiels, etc.), et l’applicabilité aux circonstances actuelles change en conséquence.
+**_5. Étudiez les textes poétiques en fonction de leur type et de leur attitude de base_** - Un psaume imprécateur doit être étudié différemment d'un psaume de louange.9 Les déclarations sur la relation de Dieu avec les gens dans les proverbes et les ecclésiastiques varient d'un type à l'autre (proverbes, didactiques) dictionnaires expérientiels, etc.), et l’applicabilité aux circonstances actuelles change en conséquence.
 
-** _ 6. Étudiez les passages poétiques dans leur ensemble avant de tirer des conclusions _ ** - Après avoir noté la structure de base d'un poème et étudié les détails, l'interprète doit prendre note de l'ensemble du passage avant d'en expliquer le sens.
+**_6. Étudiez les passages poétiques dans leur ensemble avant de tirer des conclusions_** - Après avoir noté la structure de base d'un poème et étudié les détails, l'interprète doit prendre note de l'ensemble du passage avant d'en expliquer le sens.
 
-**_7. Étudiez le psaume messianique en fonction de son importance historique _ ** - Du point de vue des écrivains du Nouveau Testament, de nombreux psaumes ont été interprétés comme des psaumes messianiques; leurs paroles ont été citées avec une référence spécifique à Jésus (Pss 2, 22, 110). Cependant, dans l'ancien Israël, à l'exception du psaume 110, ces psaumes n'étaient pas considérés comme faisant directement référence au Messie; ils avaient une signification historique au moment où ils ont été écrits. Ces psaumes doivent donc d'abord être étudiés pour déterminer le sens originel de l'auteur avant de les appliquer au Messie. Cependant, au-delà du sens historique, ils «fournissent des indicateurs verbaux qui identifient la nature typologique de ces psaumes 10». Dans le Psaume 22, par exemple, de nombreux traits transcendent de loin les expériences réelles de David. Ils ne peuvent être pleinement compris que dans le contexte de la souffrance de Jésus.
+**_7. Étudiez le psaume messianique en fonction de son importance historique_** - Du point de vue des écrivains du Nouveau Testament, de nombreux psaumes ont été interprétés comme des psaumes messianiques; leurs paroles ont été citées avec une référence spécifique à Jésus (Pss 2, 22, 110). Cependant, dans l'ancien Israël, à l'exception du psaume 110, ces psaumes n'étaient pas considérés comme faisant directement référence au Messie; ils avaient une signification historique au moment où ils ont été écrits. Ces psaumes doivent donc d'abord être étudiés pour déterminer le sens originel de l'auteur avant de les appliquer au Messie. Cependant, au-delà du sens historique, ils «fournissent des indicateurs verbaux qui identifient la nature typologique de ces psaumes 10». Dans le Psaume 22, par exemple, de nombreux traits transcendent de loin les expériences réelles de David. Ils ne peuvent être pleinement compris que dans le contexte de la souffrance de Jésus.
 
 Dans l'interprétation des passages poétiques de l'Écriture, le dernier mot ne devrait pas être technique, mais dévotionnel, présentant aux auditeurs les merveilles des voies de Dieu avec l'homme et de sa grâce dans le plan de la rédemption.
 
@@ -184,27 +184,27 @@ Deuxièmement, le dialogue est formé des trois cycles suivants introduits par u
 ** Premier cycle **
 `` `
 Eliphaz's Speech Job 4-5
-Réponse de Job Job 6-7
+	Réponse de Job Job 6-7
 Bildad's Speech Job 8
-Réponse de Job Job 9-10
+	Réponse de Job Job 9-10
 Discours Job de Zophar 11
-Réponse de Job Job 12-14
+	Réponse de Job Job 12-14
 `` `
 **Second cycle**
 `` `
 Eliphaz's Speech Job 15
-Réponse de Job Job 16-17
+	Réponse de Job Job 16-17
 Discours Job de Bildad 18
-Réponse de Job Job 19
+	Réponse de Job Job 19
 Discours Job de Zophar 20
-Réponse de Job Job 21
+	Réponse de Job Job 21
 `` `
 Troisième cycle
 `` `
 Eliphaz's Speech Job 22
-Réponse de Job Job 23-24
+	Réponse de Job Job 23-24
 Bildad's Speech Job 25
-Réponse de Job Job 26-27
+	Réponse de Job Job 26-27
 `` `
 Cette organisation est utile à l'interprète de deux manières au moins: (a) En lisant tous les discours de chacun des amis de Job en une seule séance, on est en mesure de mieux comprendre leurs arguments. Lire toutes les réponses de Job de la même manière facilitera également la compréhension de ce qu'il dit, ainsi que l'intensité de sa douleur psychologique, théologique et spirituelle, (b) Si les discours sont lus dans l'ordre donné dans le texte on pourra établir plus clairement les domaines de conventions et de désaccords entre Job et ses amis.
 
