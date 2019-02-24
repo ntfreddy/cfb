@@ -134,7 +134,7 @@ L'acquisition de la sagesse a été précédée par la "crainte [révérence] de
 
 Qu'est-ce qu'un proverbe? Le terme proverbe est difficile à définir. Le terme hébreu măsăl ("dire", "chanson") a un large éventail de significations, ce qui le rend quelque peu imprécis pour une définition valable. La lecture du psaume et de la littérature de sagesse "semble indiquer une comparaison, une signification illustrée implicitement ou explicitement dans de nombreux dictons du livre 11". On pourrait peut-être dire qu'un proverbe compare, contraste, pointe vers des éléments similaires ou différents, exprimant des idées dans des dictons populaires contenant un enseignement explicite ou implicite. De tels proverbes faisaient partie de la vie quotidienne, comme l'indiquent 1 Samuel 10:12 et 24:13. En général, le livre des Proverbes a une vision très haute du rôle et de l'importance de la sagesse dans l'existence humaine, sans nier certaines de ses limites. Widsom, une caractéristique divine, est personnifiée dans le livre en tant qu'être qui interagit avec les êtres humains. En 1: 20-33; 8: 1-3; 9: 1-6, 13-18, elle (la sagesse) s'oppose à une "femme folle". Dans d'autres endroits, les activités de la sagesse sont très proches de celles d'Yahweh. Tous deux répandent l'Esprit (Proverbes 1:23; Esa 44: 3); les deux ont appelé Israël, mais celui-ci a refusé de répondre (Proverbes 1:24; Esa 66: 4); tous deux favorisent la justice (Proverbes 8:15; Es 11: 4, 5); etc. La sagesse est l'essence de l'être de Dieu. Proverbes est écrit sous forme poétique; par conséquent, les principes utilisés dans l'interprétation de la poésie s'appliquent également à l'étude de ce livre. En dehors de cela, l'interprétation des Proverbes pourrait être facilitée en prenant en considération les suggestions suivantes: Premièrement, il convient de se familiariser avec la structure du livre. Il est constitué de plusieurs recueils de proverbes de différents individus, écrits à différentes périodes de l'histoire.
 
-`` `
+```
 1: 1-9: 18 Proverbes de Salomon
 1: 1-7 Titre et introduction
 1: 8-9: 18 Texte principal
@@ -157,7 +157,7 @@ Titre 25: 1
 31: 1 Titre
 31: 2-9 Texte principal
 31: 10-31 Poème acrostiche à la "bonne épouse"
-`` `
+```
 
 Ce schéma est utile si vous souhaitez comparer la contribution de chaque collection à un sujet particulier. Il est intriguant de trouver deux recueils de proverbes d’individus qui ne sont peut-être pas des Israélites (Agur et Lémuel). Comment leurs proverbes ont-ils trouvé une place dans le livre? La suggestion la plus logique est que le Seigneur ait guidé le prophète dans le choix de ce matériau, car il contenait des vérités compatibles avec la volonté révélée de Dieu pour Israël.
 
@@ -181,31 +181,31 @@ Premièrement, le livre consiste principalement en dialogues entre Job et ses am
 
 Deuxièmement, le dialogue est formé des trois cycles suivants introduits par un discours de Job (chapitre 3):
 
-** Premier cycle **
-`` `
+**Premier cycle**
+```
 Eliphaz's Speech Job 4-5
 	Réponse de Job Job 6-7
 Bildad's Speech Job 8
 	Réponse de Job Job 9-10
 Discours Job de Zophar 11
 	Réponse de Job Job 12-14
-`` `
+```
 **Second cycle**
-`` `
+```
 Eliphaz's Speech Job 15
 	Réponse de Job Job 16-17
 Discours Job de Bildad 18
 	Réponse de Job Job 19
 Discours Job de Zophar 20
 	Réponse de Job Job 21
-`` `
+```
 Troisième cycle
-`` `
+```
 Eliphaz's Speech Job 22
 	Réponse de Job Job 23-24
 Bildad's Speech Job 25
 	Réponse de Job Job 26-27
-`` `
+```
 Cette organisation est utile à l'interprète de deux manières au moins: (a) En lisant tous les discours de chacun des amis de Job en une seule séance, on est en mesure de mieux comprendre leurs arguments. Lire toutes les réponses de Job de la même manière facilitera également la compréhension de ce qu'il dit, ainsi que l'intensité de sa douleur psychologique, théologique et spirituelle, (b) Si les discours sont lus dans l'ordre donné dans le texte on pourra établir plus clairement les domaines de conventions et de désaccords entre Job et ses amis.
 
 Troisièmement, l'interprétation de Job 29: 1-31: 40 est importante pour la compréhension du livre. Ce monologue semble précipiter la "résolution" de l'intrigue dans le livre. Au chapitre 31, Job semble prononcer un serment d'innocence. Si cela est correct, cela signifie que Job demande à Dieu de présenter les preuves qu'il a contre lui ou de l'exonérer d'une autre manière. C'est l'apogée de la défense de Job; à partir de ce moment, il reste silencieux, attendant que Dieu parle.
