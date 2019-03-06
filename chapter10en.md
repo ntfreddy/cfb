@@ -58,7 +58,11 @@ Psalm  30:8         I cried out to you, O  LORD;  And  to the LORD  I made suppl
 
 ### Acrostic 
 
-Several  psalms  are  composed  in an acrostic pattern in which the  initial  letter of each verse or  set of verses follows  the  order of the  Hebrew  alphabet.  Thus, in Psalm  34 the  first  verse begins  with  the  Hebrew  letter  aleph,  the  second  with  the  letter  beth,  the  third  with  the  letter  gimmel,  etc.  In  Lamentations  3 not  one  but three  lines  are  assigned  to each  letter, i.e.,  the  first  three  verses all begin with  aleph,  the  next  three  verses all begin  with  beth,  the  next  three  with  gimmel,  etc.  In Psalm  119,  eight  verses  always  begin with  the  same Hebrew letter, and  since  the number of Hebrew  letters  is  22,  the  psalm  has   176  verses.  The  acrostic  form  may  have  been  an  aid  for memorization. Figures  of  Speech  Hebrew poetry  is rich in the  use  of imagery and  figures  of speech, but it  is  also  very  elliptic;  i.e.,  it drops  out  nouns  and  verbs  in parallel  lines  and  rarely uses conjunctions  (and, but), temporal  indicators (when, then), or  logical  connectors  (thus,  therefore).[3]   
+Several  psalms  are  composed  in an acrostic pattern in which the  initial  letter of each verse or  set of verses follows  the  order of the  Hebrew  alphabet.  Thus, in Psalm  34 the  first  verse begins  with  the  Hebrew  letter  aleph,  the  second  with  the  letter  beth,  the  third  with  the  letter  gimmel,  etc.  In  Lamentations  3 not  one  but three  lines  are  assigned  to each  letter, i.e.,  the  first  three  verses all begin with  aleph,  the  next  three  verses all begin  with  beth,  the  next  three  with  gimmel,  etc.  In Psalm  119,  eight  verses  always  begin with  the  same Hebrew letter, and  since  the number of Hebrew  letters  is  22,  the  psalm  has   176  verses.  The  acrostic  form  may  have  been  an  aid  for memorization. 
+
+### Figures  of  Speech  
+
+Hebrew poetry  is rich in the  use  of imagery and  figures  of speech, but it  is  also  very  elliptic;  i.e.,  it drops  out  nouns  and  verbs  in parallel  lines  and  rarely uses conjunctions  (and, but), temporal  indicators (when, then), or  logical  connectors  (thus,  therefore).[3]   
 
 #### 1.    Figures   of    Comparison    
 
