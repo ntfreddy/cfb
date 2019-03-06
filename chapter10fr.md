@@ -56,9 +56,13 @@ Psaume 29: 1 -2 Donnez à l'Éternel, vous les puissants, donnez à l'Éternel g
 
 Psaume 30: 8 Je me suis écrié, Éternel! Et à l'Éternel j'ai fait des supplications:
 
-Acrostiche
+### Acrostiche
 
-Plusieurs psaumes sont composés dans un modèle acrostiche dans lequel la lettre initiale de chaque vers ou série de vers suit l'ordre de l'alphabet hébreu. Ainsi, dans le Psaume 34, le premier verset commence par la lettre hébraïque aleph, le second par la lettre beth, le troisième par la lettre gimmel, etc. Dans Lamentations 3, pas une, mais trois lignes sont attribuées, c.-à-d. Les trois premières tous les versets commencent par aleph, les trois prochains versets commencent tous par beth, les trois suivants par gimmel, etc. Dans le Psaume 119, huit versets commencent toujours par la même lettre en hébreu, et comme le nombre de lettres en hébreu est 22, le psaume a 176 versets. La forme acrostiche peut avoir été une aide à la mémorisation. Figures de discours La poésie hébraïque est riche en images et en chiffres, mais elle est également très elliptique. c'est-à-dire qu'il supprime les noms et les verbes sur des lignes parallèles et utilise rarement des conjonctions (et, mais), des indicateurs temporels (quand, alors) ou des connecteurs logiques (donc, par conséquent). [3]
+Plusieurs psaumes sont composés dans un modèle acrostiche dans lequel la lettre initiale de chaque vers ou série de vers suit l'ordre de l'alphabet hébreu. Ainsi, dans le Psaume 34, le premier verset commence par la lettre hébraïque aleph, le second par la lettre beth, le troisième par la lettre gimmel, etc. Dans Lamentations 3, pas une, mais trois lignes sont attribuées, c.-à-d. Les trois premières tous les versets commencent par aleph, les trois prochains versets commencent tous par beth, les trois suivants par gimmel, etc. Dans le Psaume 119, huit versets commencent toujours par la même lettre en hébreu, et comme le nombre de lettres en hébreu est 22, le psaume a 176 versets. La forme acrostiche peut avoir été une aide à la mémorisation. 
+
+### Figures de discours 
+
+La poésie hébraïque est riche en images et en chiffres, mais elle est également très elliptique. c'est-à-dire qu'il supprime les noms et les verbes sur des lignes parallèles et utilise rarement des conjonctions (et, mais), des indicateurs temporels (quand, alors) ou des connecteurs logiques (donc, par conséquent). [3]
 
 #### 1. Chiffres de comparaison
 
