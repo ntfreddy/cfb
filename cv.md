@@ -19,7 +19,7 @@ Résumé des compétences, de l’expérience, des capacités, des connaissances
    * de monter qu'on peut présenter, oralement et par écrit, de façon claire et cohérente, les résultats d'un court travail de recherche scientifique.  
 
    **Spécialisation :** Vision numérique  
-   **Dates :** septembre 2005 à février 2007  
+   **Dates :** septembre 2005 à juin 2007  
    **Année d’obtention du diplôme :** mars 2008  
 
 2. **Type de diplôme :** Baccalauréat en génie informatique (B. Ing.)   
@@ -60,7 +60,7 @@ Résumé des compétences, de l’expérience, des capacités, des connaissances
    * Veiller au respect des normes de développement.
    
 2. **Titre, groupe et niveau du poste d’attache :** Agent de projet, CS2  
-   **Date d’entrée en fonction :** 01/01/2015 à 29/04/2015  
+   **Date d’entrée en fonction :** 01/01/2015 au 29/04/2015  
    **Nom de la direction/direction générale/organisation :** Service de gestion d’information/Service des applications/Service Correctionnelle du Canada  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario Canada  
    **Expérience et compétences acquises :** 
@@ -72,7 +72,7 @@ Résumé des compétences, de l’expérience, des capacités, des connaissances
    * Soutenir un environnement de travail qui facilite l'innovation, l'engagement des employés et l'excellence du rendement en appuyant les initiatives ministérielles.
 
 3. **Titre, groupe et niveau du poste d’attache :** Agent de projet subalterne, CS1  
-   **Date d’entrée en fonction :** 29/06/2011 à 01/01/2015  
+   **Date d’entrée en fonction :** 27/06/2011 au 01/01/2015  
    **Nom de la direction/direction générale/organisation :** Service de gestion d’information/Service des applications/Service Correctionnelle du Canada  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario Canada  
    **Expérience et compétences acquises :** 
@@ -95,20 +95,139 @@ Résumé des compétences, de l’expérience, des capacités, des connaissances
    * Développer le système de transfert international (ITS) en ASP classique avec base de données Oracle.
    * Examinez les applications pour vérifier qu'elles sont conformes à la norme.
 
+3. **Titre, groupe et niveau du poste d’attache :** Agent de projet subalterne, CS1  
+   **Date d’entrée en fonction :** 29/06/2011 au 01/01/2015  
+   **Nom de la direction/direction générale/organisation :** Service de gestion d’information/Service des applications/Service Correctionnelle du Canada  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario Canada  
+   **Expérience et compétences acquises :** 
+   
+4. **Titre :** Chercheur en vision numérique  
+   **Date d’entrée en fonction :** 12/12/2007 au 24/06/2011  
+   **Nom de l'organisation :** Imago Machine Vision Inc.,   
+   **Ville, province et pays du lieu de travail :** Gatineau, Québec, Canada  
+   **Expérience et compétences acquises :** 
+   * Faire la rechercher et développer un système de caméra stéréoscopique pour la mesure de cibles à longue distance.
+   * Rassembler et documenter les besoins des clients.
+   * Fournir le support et l'intégration de nouveaux systèmes de robot pan / tilt.
+   * Adapter l'application pour la technologie d'écran tactile.
+   * Apporter des modifications, intégrez et testez un système compact de suivi des avions dans le langage de C++.
+   * Intégrer et tester de nouvelles caméras industrielles.
+   * Développer un système d'analyse de vol (FAS) en C++.
+   * Préparer les versions et le déploiement des applications.
+   * Rédiger des manuels de logiciels.
+   * Générer des diagrammes de conception logicielle.
+   * Soutenir et maintenir les applications vendues aux clients.
+   * Les applications de test pendant le cycle de développement ou après le changement sont effectuées.
+   * Documenter et communiquer les résultats des tests informatiques.
+   * Configurer un ordinateur sur mesure avec des applications développées.
+   * Diagnostiquer les problèmes de matériel informatique et effectuer les réparations nécessaires.
+   * Commander un nouveau composant de produit.
+   * Aider les clients à utiliser la technologie d'accès à distance.
+   * Développer un suivi des vols pour les appareils mobiles dans un environnement de type LINUX (Mac OS X et pour IPhone).
+   * Supporter le serveur FFTP dans l'environnement LINUX.
+   * Utiliser des outils de gestion de configuration tels que CVS et SVN.   
+   
+5. **Titre :** Spécialiste en vision numérique  
+   **Date d’entrée en fonction :** 05/02/2007 au 14/12/2007  
+   **Nom de l'organisation :** International Business Machines (IBM)   
+   **Ville, province et pays du lieu de travail :** Bromont, Québec, Canada  
+   **Expérience et compétences acquises :** 
+   * Concevoir et développer un système d'étalonnage automatique des caméras utilisé pour les systèmes d'inspection de vision industrielle en C++.
+   * Rassembler et documenter les besoins des clients.
+   * Effectuer des tests et fournir un support pour divers systèmes de vision par ordinateur.
+   * Développer des systèmes de vision 3D en utilisant l'interférométrie à décalage de phase en C++.
+   * Tester les applications dans leur cycle de développement.
+   * Documenter et communiquer les résultats des tests informatiques.
+   * Former les utilisateurs à l'utilisation des applications développées.
+   * Fournir le support aux applications développées.
+6. **Titre :** Étudiant gradué et chercheur 
+   **Date d’entrée en fonction :** 06/09/2005 au 01/06/2007  
+   **Nom de l'organisation :** Université Laval   
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
+   **Expérience et compétences acquises :** 
+   * Développer des algorithmes de segmentation d'images couleur en utilisant un réseau de neurones appliqué à l'évaluation de l'aubier. Le document résultant a été présenté et publié à la Conférence canadienne de génie électrique et informatique de Vancouver 2007 IEEE Canada.
+   * Développer des algorithmes pour le système de suivi de tête 3D pour les conducteurs dans le cadre du projet de thèse de maîtrise. Un article de ce projet a été présenté et publié lors de la Conférence sur l'automatisation industrielle de Montréal en 2007. Analyser et développer un système de caméra stéréoscopique pour la mesure de cibles à longue distance.
 
+7. **Titre :** Assistant professeur
+   **Date d’entrée en fonction :** 06/09/2005 au 01/06/2007  
+   **Nom de l'organisation :** Université Laval   
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
+   **Expérience et compétences acquises :** 
+   * Assister des professeurs dans les cours de:
+    - Programmation en C++
+    - Programmation en assembleurs X86 et Motorola
+    - Signaux et systèmes discrets 
+    - Design
+   * Fournir du soutien aux étudiants pendant leurs travaux de laboratoire et corriger les devoirs et les examens.
+
+8. **Titre :** Analyste informatique
+   **Date d’entrée en fonction :** 01/05/2004 au 20/08/2004  
+   **Nom de l'organisation :** Université Laval   
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
+   **Expérience et compétences acquises :** 
+   * Développer une application qui relie un dispositif de détection d'empreintes digitales à la base de données de l'entreprise en langage C#.
+   * Fournir un support informatique aux employés de l'entreprise.
+   * Apportez des modifications sur un portail Web de l'entreprise basé sur la technologie asp.net en langage C#.
+   
 # EXPÉRIENCE DE BÉNÉVOLAT
-Titre
- Date d’arrivée (jj/mm/aaaa) et de départ (jj/mm/aaaa), le cas échéant
-Nom de l’organisation
-Ville, province et pays du lieu du bénévolat
-Expérience et compétences acquises
-Titre
-mm/aaaa de début et mm/aaaa de fin
-Nom de l’organisation
-Ville, province et pays du lieu de travail
-Expérience et compétences acquises
-AUTRES
-Formation
-Titres professionnels
-Prix et réalisations
-Affiliations
+1. **Titre :** Premier répondant (sécouriste) en milieu de travail
+   **Dates :** 2020
+   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
+   **Expérience et compétences acquises :** 
+   * Développer les compétences de communication et de secourisme
+
+2. **Titre :** Concepteur de site web
+   **Dates :** 2019 à présent
+   **Nom de l'organisation :** Lupus Gatineau
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
+   **Expérience et compétences acquises :** 
+   * Développer dans le site web en utilisant un système de gestion de contenu appelé Joomla.
+   
+3. **Titre :** Bénévole pour la Campagne de charité en milieu de travail du gouvernement du Canada (CCMTGC) 
+   **Dates :** 2018
+   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
+   **Expérience et compétences acquises :** 
+   * Développer les compétences de communication, les compétences de négociation et la capacité de mobiliser les gens pour une bonne cause
+   
+4. **Titre :** Premier répondant (sécouriste) en milieu de travail
+   **Dates :** 2011 à 2015
+   **Nom de l'organisation :** Service Correctionnelle du Canada
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
+   **Expérience et compétences acquises :** 
+   * Développer les compétences de communication et de secourisme
+   
+5. **Titre :** Représentant en matière de santé et de sécurité 
+   **Dates :** 2015, 2016
+   **Nom de l'organisation :** Service Correctionnelle du Canada
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
+   **Expérience et compétences acquises :** 
+   * Développer la communication avec les employés
+   
+6. **Titre :** Bénévole pour la Campagne de charité en milieu de travail du gouvernement du Canada (CCMTGC) 
+   **Dates :** 2015
+   **Nom de l'organisation :** Service Correctionnelle du Canada
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
+   **Expérience et compétences acquises :** 
+   * Développer les compétences de communication, les compétences de négociation et la capacité de mobiliser les gens pour une bonne cause
+   
+7. **Titre :** Concepteur de site web
+   **Dates :** 2010 à 2012
+   **Nom de l'organisation :** Jeunesse en Action 
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
+   **Expérience et compétences acquises :** 
+   * Développer dans le site web en utilisant un système de gestion de contenu appelé Joomla.
+
+8. **Titre :** Concepteur de site web
+   **Dates :** 2004
+   **Nom de l'organisation :** Prolasa Canada  
+   **Ville, province et pays du lieu de travail :** Arthurette, Nouveau Brunswick, Canada  
+   **Expérience et compétences acquises :** 
+   * Développer dans le langage PHP et Javascript.
+   
+
+# FORMATIONS
+
+# PRIX ET RÉALISATIONS
+
