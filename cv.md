@@ -7,7 +7,14 @@
 **Adresse courriel (domicile) :** ntfreddy@yahoo.ca  
 
 # SOMMAIRE
-Résumé des compétences, de l’expérience, des capacités, des connaissances, de la langue et cote  de sécurité
+ * Expérience de l’établissement de partenariats et de la collaboration avec différentes parties intéressées dans les ministères et organismes du gouvernement fédéral.
+ * Expérience de la communication et/ou de la démonstration (réunions quotidiennes, études de rentabilité, notes d’information, présentations, etc.) de la valeur opérationnelle des produits et des services de GI-TI. 
+ * Expérience de la direction et du développement de grandes équipes interfonctionnelles et de programmes d’entreprises à l’échelle de l’organisation, dans des contextes compliqués et perturbés. 
+ * Expérience de la gestion des affaires, y compris la planification stratégique, la direction des ressources humaines et la gestion financière.
+ * Connaissance des tendances, des pratiques exemplaires et des enjeux actuels dans la collectivité de GI-TI du gouvernement du Canada.
+ * Français, anglais, espagnol de base
+ * Détenteur de la cote de sécurité de niveau **secret**
+ * Résumé des compétences, de l’expérience, des capacités, des connaissances, de la langue et cote  de sécurité
 
 # ÉTUDES
 1. **Type de diplôme :** Maîtrise en génie électrique (M. Sc.)  
@@ -44,9 +51,9 @@ Résumé des compétences, de l’expérience, des capacités, des connaissances
    **Année d’obtention du diplôme :** mars 1999 
 
 # EXPÉRIENCE PROFESSIONNELLE
-1. **Titre, groupe et niveau du poste d’attache :** Analyste programmeur principal, REG6  
+1. **Titre, groupe et niveau du poste d’attache :** Analyste-programmeur principal, REG6  
    **Date d’entrée en fonction :** 01/05/2017 à présent  
-   **Nom de la direction/direction générale/organisation :** IMTD/ASD/Commission Canadienne de Surêté Nucléaire  
+   **Nom de la direction/direction générale/organisation :** Division de l'architecture d'entreprise et de la mise en oeuvre de solutions/Direction de la gestion et de la technologie de l'information/Commission Canadienne de Surêté Nucléaire  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario Canada  
    **Expérience et compétences acquises :** 
    * Fournir des conseils spécialisés aux équipes multidisciplinaires concernant le cycle complet de développement de logiciels.
@@ -153,21 +160,21 @@ Résumé des compétences, de l’expérience, des capacités, des connaissances
    **Nom de l'organisation :** Université Laval   
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
    **Expérience et compétences acquises :** 
-   * Assister des professeurs dans les cours de:
-    - Programmation en C++
-    - Programmation en assembleurs X86 et Motorola
-    - Signaux et systèmes discrets 
-    - Design
-   * Fournir du soutien aux étudiants pendant leurs travaux de laboratoire et corriger les devoirs et les examens.
+    * Assister des professeurs dans les cours de:  
+       - Programmation en C++  
+       - Programmation en assembleurs X86 et Motorola  
+       - Signaux et systèmes discrets  
+       - Design  
+    * Fournir du soutien aux étudiants pendant leurs travaux de laboratoire et corriger les devoirs et les examens.
 
 8. **Titre :** Analyste informatique
    **Date d’entrée en fonction :** 01/05/2004 au 20/08/2004  
    **Nom de l'organisation :** Université Laval   
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
    **Expérience et compétences acquises :** 
-   * Développer une application qui relie un dispositif de détection d'empreintes digitales à la base de données de l'entreprise en langage C#.
-   * Fournir un support informatique aux employés de l'entreprise.
-   * Apportez des modifications sur un portail Web de l'entreprise basé sur la technologie asp.net en langage C#.
+    * Développer une application qui relie un dispositif de détection d'empreintes digitales à la base de données de l'entreprise en langage C#.
+    * Fournir un support informatique aux employés de l'entreprise.
+    * Apportez des modifications sur un portail Web de l'entreprise basé sur la technologie asp.net en langage C#.
    
 # EXPÉRIENCE DE BÉNÉVOLAT
 1. **Titre :** Premier répondant (sécouriste) en milieu de travail
@@ -175,28 +182,28 @@ Résumé des compétences, de l’expérience, des capacités, des connaissances
    **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
    **Expérience et compétences acquises :** 
-   * Développer les compétences de communication et de secourisme
+     * Développer les compétences de communication et de secourisme
 
 2. **Titre :** Concepteur de site web
    **Dates :** 2019 à présent
    **Nom de l'organisation :** Lupus Gatineau
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
    **Expérience et compétences acquises :** 
-   * Développer dans le site web en utilisant un système de gestion de contenu appelé Joomla.
+     * Développer dans le site web en utilisant un système de gestion de contenu appelé Joomla.
    
 3. **Titre :** Bénévole pour la Campagne de charité en milieu de travail du gouvernement du Canada (CCMTGC) 
    **Dates :** 2018
    **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
    **Expérience et compétences acquises :** 
-   * Développer les compétences de communication, les compétences de négociation et la capacité de mobiliser les gens pour une bonne cause
+     * Développer les compétences de communication, les compétences de négociation et la capacité de mobiliser les gens pour une bonne cause
    
 4. **Titre :** Premier répondant (sécouriste) en milieu de travail
    **Dates :** 2011 à 2015
    **Nom de l'organisation :** Service Correctionnelle du Canada
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
    **Expérience et compétences acquises :** 
-   * Développer les compétences de communication et de secourisme
+     * Développer les compétences de communication et de secourisme
    
 5. **Titre :** Représentant en matière de santé et de sécurité 
    **Dates :** 2015, 2016
@@ -210,124 +217,124 @@ Résumé des compétences, de l’expérience, des capacités, des connaissances
    **Nom de l'organisation :** Service Correctionnelle du Canada
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
    **Expérience et compétences acquises :** 
-   * Développer les compétences de communication, les compétences de négociation et la capacité de mobiliser les gens pour une bonne cause
+     * Développer les compétences de communication, les compétences de négociation et la capacité de mobiliser les gens pour une bonne cause
    
 7. **Titre :** Concepteur de site web
    **Dates :** 2010 à 2012
    **Nom de l'organisation :** Jeunesse en Action 
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
    **Expérience et compétences acquises :** 
-   * Développer dans le site web en utilisant un système de gestion de contenu appelé Joomla.
+     * Développer dans le site web en utilisant un système de gestion de contenu appelé Joomla.
 
 8. **Titre :** Concepteur de site web
    **Dates :** 2004
    **Nom de l'organisation :** Prolasa Canada  
    **Ville, province et pays du lieu de travail :** Arthurette, Nouveau Brunswick, Canada  
    **Expérience et compétences acquises :** 
-   * Développer dans le langage PHP et Javascript.
+     * Développer dans le langage PHP et Javascript.
    
 
 # FORMATIONS
-1. **Titre :** Introduction to Cloud Computing
-   **Data :** 2017
-   **Durée :** 3 jours
-   **Nom de l'organisation :** Learning Tree
+1. **Titre :** Introduction to Cloud Computing  
+   **Data :** 2017  
+   **Durée :** 3 jours  
+   **Nom de l'organisation :** Learning Tree  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Connaissance des technologies dans le nuage
+   **Compétences acquises :**  
+     * Connaissance des technologies dans le nuage  
 
-2. **Titre :** Devops Hackathon
-   **Data :** 2016
-   **Durée :** 1 jour
-   **Nom de l'organisation :** Microsoft
+2. **Titre :** Devops Hackathon  
+   **Data :** 2016  
+   **Durée :** 1 jour  
+   **Nom de l'organisation :** Microsoft  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Connaissances des outils DevOps de Microsoft
+   **Compétences acquises :**  
+     * Connaissances des outils DevOps de Microsoft  
    
-3. **Titre :** Microsoft Dynamics CRM Advanced Development
-   **Data :** 2016
-   **Durée :** 5 jours
-   **Nom de l'organisation :** Qixas Group
-   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Connaissances approfondies de la platforme de Microsoft Dynamics CRM
+3. **Titre :** Microsoft Dynamics CRM Advanced Development  
+   **Data :** 2016  
+   **Durée :** 5 jours  
+   **Nom de l'organisation :** Qixas Group  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
+   **Compétences acquises :**  
+     * Connaissances approfondies de la platforme de Microsoft Dynamics CRM  
    
-4. **Titre :** Microsoft Dynamics CRM Accelerated Boot Camp
-   **Data :** 2015
-   **Durée :** 3 jours
-   **Nom de l'organisation :** Qixas Group
+4. **Titre :** Microsoft Dynamics CRM Accelerated Boot Camp  
+   **Data :** 2015  
+   **Durée :** 3 jours  
+   **Nom de l'organisation :** Qixas Group  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Connaissances de base de la platforme de Microsoft Dynamics CRM
+   **Compétences acquises :**  
+     * Connaissances de base de la platforme de Microsoft Dynamics CRM  
    
-5. **Titre :** Introduction to CRM Development
-   **Data :** 2015
-   **Durée :** 1 jours
-   **Nom de l'organisation :** Microsot Ottawa
+5. **Titre :** Introduction to CRM Development  
+   **Data :** 2015  
+   **Durée :** 1 jours  
+   **Nom de l'organisation :** Microsot Ottawa  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Introduction à la platforme de Microsoft Dynamics CRM
+   **Compétences acquises :**  
+     * Introduction à la platforme de Microsoft Dynamics CRM  
    
-6. **Titre :** SQL Server Transact-SQL Programming
-   **Data :** 2014
-   **Durée :** 4 jours
-   **Nom de l'organisation :** Learning Tree
-   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Connaissances approfondies de la base de donnée SQL Server 2012
+6. **Titre :** SQL Server Transact-SQL Programming  
+   **Data :** 2014  
+   **Durée :** 4 jours  
+   **Nom de l'organisation :** Learning Tree  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada    
+   **Compétences acquises :**   
+     * Connaissances approfondies de la base de donnée SQL Server 2012  
    
-7. **Titre :** Oracle SOA 11g Workshop: SOA for Government
-   **Data :** 2013
-   **Durée :** 1 jour
-   **Nom de l'organisation :** Oracle Canada
-   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Connaissances de base de l'architecture dbasée sur des services 
+7. **Titre :** Oracle SOA 11g Workshop: SOA for Government  
+   **Data :** 2013  
+   **Durée :** 1 jour  
+   **Nom de l'organisation :** Oracle Canada  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
+   **Compétences acquises :**  
+     * Connaissances de base de l'architecture dbasée sur des services   
 
-8. **Titre :** Cours de gestion de projet
-   **Data :** 2011
-   **Durée :** 3 jours
-   **Nom de l'organisation :** Service Correctionnelle du Canada
-   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Connaissances de base en gestion de projet
+8. **Titre :** Cours de gestion de projet  
+   **Data :** 2011  
+   **Durée :** 3 jours  
+   **Nom de l'organisation :** Service Correctionnelle du Canada  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
+   **Compétences acquises :**  
+   * Connaissances de base en gestion de projet  
    
-9. **Titre :** Extreme Database Designs and the Queries
-   **Data :** 2011
-   **Durée :** 1 jour
-   **Nom de l'organisation :** DevTeach Inc.
+9. **Titre :** Extreme Database Designs and the Queries  
+   **Data :** 2011  
+   **Durée :** 1 jour  
+   **Nom de l'organisation :** DevTeach Inc.  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Connaissances sur les bases de données modernes
+   **Compétences acquises :**  
+     * Connaissances sur les bases de données modernes  
 
-10. **Titre :** Windows Presentation Foundation (WPF) Course
-   **Data :** 2011
-   **Durée :** 3 jours
-   **Nom de l'organisation :** Microsot Ottawa
+10. **Titre :** Windows Presentation Foundation (WPF) Course  
+   **Data :** 2011  
+   **Durée :** 3 jours  
+   **Nom de l'organisation :** Microsot Ottawa  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Introduction à WPF  
+   **Compétences acquises :**  
+     * Introduction à WPF  
 
-11. **Titre :** ITIL v.3 Foundation Course with certificate
-   **Data :** 2011
-   **Durée :** 3 jours
-   **Nom de l'organisation :** DIYmonde Solutions Inc.
+11. **Titre :** ITIL v.3 Foundation Course with certificate  
+   **Data :** 2011  
+   **Durée :** 3 jours  
+   **Nom de l'organisation :** DIYmonde Solutions Inc.  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Compétences acquises :** 
-   * Connaissances sur les bonnes pratiques utilisés pour gérer les systèmes informatiques
+   **Compétences acquises :**  
+     * Connaissances sur les bonnes pratiques utilisés pour gérer les systèmes informatiques  
 
 # PRIX ET RÉALISATIONS
-1. **Titre :** Travail d'équipe pour la contribution au développement du Système de Gestion de Cas
-   **Data :** 2018
-   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire
+1. **Titre :** Travail d'équipe pour la contribution au développement du Système de Gestion de Cas  
+   **Data :** 2018  
+   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
 
-2. **Titre :** Premier prix lors du Hackathon organisé par le Service Correctionnelle du Canada
-   **Data :** 2015
-   **Nom de l'organisation :** Service Correctionnelle du Canada
-   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada     
+2. **Titre :** Premier prix lors du Hackathon organisé par le Service Correctionnelle du Canada  
+   **Data :** 2015  
+   **Nom de l'organisation :** Service Correctionnelle du Canada  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada      
 
-3. **Titre :** Prix pour le travail en équipe
-   **Data :** 2012
-   **Nom de l'organisation :** Service Correctionnelle du Canada
+3. **Titre :** Prix pour le travail en équipe  
+   **Data :** 2012  
+   **Nom de l'organisation :** Service Correctionnelle du Canada  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
