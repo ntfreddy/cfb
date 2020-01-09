@@ -247,7 +247,7 @@
 
 # FORMATIONS
 1. **Titre :** Introduction to Cloud Computing  
-   **Data :** 2017  
+   **Date :** 2017  
    **Durée :** 3 jours  
    **Nom de l'organisation :** Learning Tree  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
@@ -255,7 +255,7 @@
      * Connaissance des technologies dans le nuage  
 
 2. **Titre :** Devops Hackathon  
-   **Data :** 2016  
+   **Date :** 2016  
    **Durée :** 1 jour  
    **Nom de l'organisation :** Microsoft  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
@@ -263,7 +263,7 @@
      * Connaissances des outils DevOps de Microsoft  
    
 3. **Titre :** Microsoft Dynamics CRM Advanced Development  
-   **Data :** 2016  
+   **Date :** 2016  
    **Durée :** 5 jours  
    **Nom de l'organisation :** Qixas Group  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
@@ -271,7 +271,7 @@
      * Connaissances approfondies de la platforme de Microsoft Dynamics CRM  
    
 4. **Titre :** Microsoft Dynamics CRM Accelerated Boot Camp  
-   **Data :** 2015  
+   **Date :** 2015  
    **Durée :** 3 jours  
    **Nom de l'organisation :** Qixas Group  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
@@ -279,7 +279,7 @@
      * Connaissances de base de la platforme de Microsoft Dynamics CRM  
    
 5. **Titre :** Introduction to CRM Development  
-   **Data :** 2015  
+   **Date :** 2015  
    **Durée :** 1 jours  
    **Nom de l'organisation :** Microsot Ottawa  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
@@ -287,7 +287,7 @@
      * Introduction à la platforme de Microsoft Dynamics CRM  
    
 6. **Titre :** SQL Server Transact-SQL Programming  
-   **Data :** 2014  
+   **Date :** 2014  
    **Durée :** 4 jours  
    **Nom de l'organisation :** Learning Tree  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada    
@@ -295,7 +295,7 @@
      * Connaissances approfondies de la base de donnée SQL Server 2012  
    
 7. **Titre :** Oracle SOA 11g Workshop: SOA for Government  
-   **Data :** 2013  
+   **Date :** 2013  
    **Durée :** 1 jour  
    **Nom de l'organisation :** Oracle Canada  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
@@ -303,7 +303,7 @@
      * Connaissances de base de l'architecture dbasée sur des services   
 
 8. **Titre :** Cours de gestion de projet  
-   **Data :** 2011  
+   **Date :** 2011  
    **Durée :** 3 jours  
    **Nom de l'organisation :** Service Correctionnelle du Canada  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
@@ -311,7 +311,7 @@
    * Connaissances de base en gestion de projet  
    
 9. **Titre :** Extreme Database Designs and the Queries  
-   **Data :** 2011  
+   **Date :** 2011  
    **Durée :** 1 jour  
    **Nom de l'organisation :** DevTeach Inc.  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
@@ -319,7 +319,7 @@
      * Connaissances sur les bases de données modernes  
 
 10. **Titre :** Windows Presentation Foundation (WPF) Course  
-   **Data :** 2011  
+   **Date :** 2011  
    **Durée :** 3 jours  
    **Nom de l'organisation :** Microsot Ottawa  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
@@ -327,25 +327,25 @@
      * Introduction à WPF  
 
 11. **Titre :** ITIL v.3 Foundation Course with certificate  
-   **Data :** 2011  
+   **Date :** 2011  
    **Durée :** 3 jours  
    **Nom de l'organisation :** DIYmonde Solutions Inc.  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
    **Compétences acquises :**  
-     * Connaissances sur les bonnes pratiques utilisés pour gérer les systèmes informatiques  
+     * Connaissances sur les bonnes pratiques utilisés pour la gestion des services informatiques  
 
 # PRIX ET RÉALISATIONS
-1. **Titre :** Travail d'équipe pour la contribution au développement du Système de Gestion de Cas  
-   **Data :** 2018  
+1. **Titre :** Prix d'excellence pour la créativité et l'innovation   
+   **Date :** 2018  
    **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
 
 2. **Titre :** Premier prix lors du Hackathon organisé par le Service Correctionnelle du Canada  
-   **Data :** 2015  
+   **Date :** 2015  
    **Nom de l'organisation :** Service Correctionnelle du Canada  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada      
 
 3. **Titre :** Prix pour le travail en équipe  
-   **Data :** 2012  
+   **Date :** 2012  
    **Nom de l'organisation :** Service Correctionnelle du Canada  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
