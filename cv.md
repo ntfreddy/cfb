@@ -102,13 +102,13 @@
    * Développer le système de transfert international (ITS) en ASP classique avec base de données Oracle.
    * Examinez les applications pour vérifier qu'elles sont conformes à la norme.
 
-3. **Titre, groupe et niveau du poste d’attache :** Agent de projet subalterne, CS1  
+4. **Titre, groupe et niveau du poste d’attache :** Agent de projet subalterne, CS1  
    **Date d’entrée en fonction :** 29/06/2011 au 01/01/2015  
    **Nom de la direction/direction générale/organisation :** Service de gestion d’information/Service des applications/Service Correctionnelle du Canada  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario Canada  
    **Expérience et compétences acquises :** 
    
-4. **Titre :** Chercheur en vision numérique  
+5. **Titre :** Chercheur en vision numérique  
    **Date d’entrée en fonction :** 12/12/2007 au 24/06/2011  
    **Nom de l'organisation :** Imago Machine Vision Inc.,   
    **Ville, province et pays du lieu de travail :** Gatineau, Québec, Canada  
@@ -134,7 +134,7 @@
    * Supporter le serveur FFTP dans l'environnement LINUX.
    * Utiliser des outils de gestion de configuration tels que CVS et SVN.   
    
-5. **Titre :** Spécialiste en vision numérique  
+6. **Titre :** Spécialiste en vision numérique  
    **Date d’entrée en fonction :** 05/02/2007 au 14/12/2007  
    **Nom de l'organisation :** International Business Machines (IBM)   
    **Ville, province et pays du lieu de travail :** Bromont, Québec, Canada  
@@ -147,7 +147,8 @@
    * Documenter et communiquer les résultats des tests informatiques.
    * Former les utilisateurs à l'utilisation des applications développées.
    * Fournir le support aux applications développées.
-6. **Titre :** Étudiant gradué et chercheur 
+   
+7. **Titre :** Étudiant gradué et chercheur  
    **Date d’entrée en fonction :** 06/09/2005 au 01/06/2007  
    **Nom de l'organisation :** Université Laval   
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
@@ -155,7 +156,7 @@
    * Développer des algorithmes de segmentation d'images couleur en utilisant un réseau de neurones appliqué à l'évaluation de l'aubier. Le document résultant a été présenté et publié à la Conférence canadienne de génie électrique et informatique de Vancouver 2007 IEEE Canada.
    * Développer des algorithmes pour le système de suivi de tête 3D pour les conducteurs dans le cadre du projet de thèse de maîtrise. Un article de ce projet a été présenté et publié lors de la Conférence sur l'automatisation industrielle de Montréal en 2007. Analyser et développer un système de caméra stéréoscopique pour la mesure de cibles à longue distance.
 
-7. **Titre :** Assistant professeur
+8. **Titre :** Assistant professeur    
    **Date d’entrée en fonction :** 06/09/2005 au 01/06/2007  
    **Nom de l'organisation :** Université Laval   
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
@@ -167,7 +168,7 @@
        - Design  
     * Fournir du soutien aux étudiants pendant leurs travaux de laboratoire et corriger les devoirs et les examens.
 
-8. **Titre :** Analyste informatique
+9. **Titre :** Analyste informatique  
    **Date d’entrée en fonction :** 01/05/2004 au 20/08/2004  
    **Nom de l'organisation :** Université Laval   
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
@@ -177,61 +178,71 @@
     * Apportez des modifications sur un portail Web de l'entreprise basé sur la technologie asp.net en langage C#.
    
 # EXPÉRIENCE DE BÉNÉVOLAT
-1. **Titre :** Premier répondant (sécouriste) en milieu de travail
-   **Dates :** 2020
-   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire
-   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
-   **Expérience et compétences acquises :** 
-     * Développer les compétences de communication et de secourisme
+1. **Titre :** Bénévole à l'église adventiste du 7e jour à Gatineau  
+   **Dates :** 2008 à présent   
+   **Nom de l'organisation :** Église adventiste du 7e jour à Gatineaue   
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada   
+   **Expérience et compétences acquises :**   
+     * Diriger des équipes multidiciplinaires
+     * Préparer les planifications stratégiques
+     * Gerer les budgets de plusieurs départements
+     * Planifier le roulement du personnel
 
-2. **Titre :** Concepteur de site web
-   **Dates :** 2019 à présent
-   **Nom de l'organisation :** Lupus Gatineau
-   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
-   **Expérience et compétences acquises :** 
-     * Développer dans le site web en utilisant un système de gestion de contenu appelé Joomla.
+2. **Titre :** Premier répondant (sécouriste) en milieu de travail   
+   **Dates :** 2020   
+   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire   
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada   
+   **Expérience et compétences acquises :**   
+     * Développer les compétences de communication et de secourisme   
+
+3. **Titre :** Concepteur de site web   
+   **Dates :** 2019 à présent   
+   **Nom de l'organisation :** Lupus Gatineau   
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada   
+   **Expérience et compétences acquises :**    
+     * Développer dans le site web en utilisant un système de gestion de contenu appelé Joomla.   
    
-3. **Titre :** Bénévole pour la Campagne de charité en milieu de travail du gouvernement du Canada (CCMTGC) 
-   **Dates :** 2018
-   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire
-   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Expérience et compétences acquises :** 
+4. **Titre :** Bénévole pour la Campagne de charité en milieu de travail du gouvernement du Canada (CCMTGC)   
+   **Dates :** 2018   
+   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire   
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
+   **Expérience et compétences acquises :**   
+     * Développer les compétences de communication, les compétences de négociation et la capacité de mobiliser les gens pour une bonne cause.   
+   
+5. **Titre :** Premier répondant (sécouriste) en milieu de travail   
+   **Dates :** 2011 à 2015   
+   **Nom de l'organisation :** Service Correctionnelle du Canada   
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada   
+   **Expérience et compétences acquises :**   
+     * Développer les compétences de communication et de secourisme   
+   
+6. **Titre :** Représentant en matière de santé et de sécurité   
+   **Dates :** 2015, 2016   
+   **Nom de l'organisation :** Service Correctionnelle du Canada   
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
+   **Expérience et compétences acquises :**   
+   * Développer la communication avec les employés   
+   
+7. **Titre :** Bénévole pour la Campagne de charité en milieu de travail du gouvernement du Canada (CCMTGC)   
+   **Dates :** 2015   
+   **Nom de l'organisation :** Service Correctionnelle du Canada   
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada   
+   **Expérience et compétences acquises :**   
      * Développer les compétences de communication, les compétences de négociation et la capacité de mobiliser les gens pour une bonne cause
    
-4. **Titre :** Premier répondant (sécouriste) en milieu de travail
-   **Dates :** 2011 à 2015
-   **Nom de l'organisation :** Service Correctionnelle du Canada
-   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
-   **Expérience et compétences acquises :** 
-     * Développer les compétences de communication et de secourisme
-   
-5. **Titre :** Représentant en matière de santé et de sécurité 
-   **Dates :** 2015, 2016
-   **Nom de l'organisation :** Service Correctionnelle du Canada
-   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Expérience et compétences acquises :** 
-   * Développer la communication avec les employés
-   
-6. **Titre :** Bénévole pour la Campagne de charité en milieu de travail du gouvernement du Canada (CCMTGC) 
-   **Dates :** 2015
-   **Nom de l'organisation :** Service Correctionnelle du Canada
-   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
-   **Expérience et compétences acquises :** 
-     * Développer les compétences de communication, les compétences de négociation et la capacité de mobiliser les gens pour une bonne cause
-   
-7. **Titre :** Concepteur de site web
-   **Dates :** 2010 à 2012
-   **Nom de l'organisation :** Jeunesse en Action 
-   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
-   **Expérience et compétences acquises :** 
-     * Développer dans le site web en utilisant un système de gestion de contenu appelé Joomla.
+8. **Titre :** Concepteur de site web   
+   **Dates :** 2010 à 2012   
+   **Nom de l'organisation :** Jeunesse en Action   
+   **Ville, province et pays du lieu de travail :** Québec, Québec, Canada     
+   **Expérience et compétences acquises :**   
+     * Développer dans le site web en utilisant un système de gestion de contenu appelé Joomla.   
 
-8. **Titre :** Concepteur de site web
-   **Dates :** 2004
-   **Nom de l'organisation :** Prolasa Canada  
-   **Ville, province et pays du lieu de travail :** Arthurette, Nouveau Brunswick, Canada  
-   **Expérience et compétences acquises :** 
-     * Développer dans le langage PHP et Javascript.
+9. **Titre :** Concepteur de site web   
+   **Dates :** 2004   
+   **Nom de l'organisation :** Prolasa Canada   
+   **Ville, province et pays du lieu de travail :** Arthurette, Nouveau Brunswick, Canada   
+   **Expérience et compétences acquises :**   
+     * Développer dans le langage PHP et Javascript.   
    
 
 # FORMATIONS
