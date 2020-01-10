@@ -246,7 +246,55 @@
    
 
 # FORMATIONS
-1. **Titre :** Introduction to Cloud Computing  
+1. **Titre :** Azure Hands-On Labs DevOps  
+   **Date :** 2019  
+   **Durée :** 1 jour  
+   **Nom de l'organisation :** Microsoft  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
+   **Compétences acquises :**  
+     * 	Connaissance des services en nuages de Microsoft   
+	 
+2. **Titre :** Leadership efficace  
+   **Date :** 2019  
+   **Durée :** 1 heure  
+   **Nom de l'organisation :** GCCampus  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
+   **Compétences acquises :**  
+     * 	Les qualités d'un leader   
+	 
+3. **Titre :** Intelligence émotionnelle 
+   **Date :** 2019  
+   **Durée :** 2 jours  
+   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
+   **Compétences acquises :**  
+     * 	Faire connaissance de son intelligence émotionnelle et comment savoir vivre avec ses collègues 
+	 
+4. **Titre :** Introduction à l'architecture des microservices 
+   **Date :** 2019  
+   **Durée :** 2 jours  
+   **Nom de l'organisation :** Learning Tree International  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
+   **Compétences acquises :**  
+     * 	L'importance des microservices  
+
+5. **Titre :** Rédaction de documents techniques clairs  
+   **Date :** 2018  
+   **Durée :** 1 jour  
+   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
+   **Compétences acquises :**  
+     * Habilité de bien communiquer par écrit dans le domaine technique
+	 
+6. **Titre :** Techniques de négociation  
+   **Date :** 2018  
+   **Durée :** 1 heure  
+   **Nom de l'organisation :** Commission Canadienne de Surêté Nucléaire  
+   **Ville, province et pays du lieu de travail :** Ottawa, Ontario, Canada  
+   **Compétences acquises :**  
+     * Techniques de négociation 
+	 
+7. **Titre :** Introduction to Cloud Computing  
    **Date :** 2017  
    **Durée :** 3 jours  
    **Nom de l'organisation :** Learning Tree  
@@ -254,7 +302,7 @@
    **Compétences acquises :**  
      * Connaissance des technologies dans le nuage  
 
-2. **Titre :** Devops Hackathon  
+8. **Titre :** Devops Hackathon  
    **Date :** 2016  
    **Durée :** 1 jour  
    **Nom de l'organisation :** Microsoft  
@@ -262,7 +310,7 @@
    **Compétences acquises :**  
      * Connaissances des outils DevOps de Microsoft  
    
-3. **Titre :** Microsoft Dynamics CRM Advanced Development  
+9. **Titre :** Microsoft Dynamics CRM Advanced Development  
    **Date :** 2016  
    **Durée :** 5 jours  
    **Nom de l'organisation :** Qixas Group  
@@ -270,7 +318,7 @@
    **Compétences acquises :**  
      * Connaissances approfondies de la platforme de Microsoft Dynamics CRM  
    
-4. **Titre :** Microsoft Dynamics CRM Accelerated Boot Camp  
+10. **Titre :** Microsoft Dynamics CRM Accelerated Boot Camp  
    **Date :** 2015  
    **Durée :** 3 jours  
    **Nom de l'organisation :** Qixas Group  
@@ -278,7 +326,7 @@
    **Compétences acquises :**  
      * Connaissances de base de la platforme de Microsoft Dynamics CRM  
    
-5. **Titre :** Introduction to CRM Development  
+11. **Titre :** Introduction to CRM Development  
    **Date :** 2015  
    **Durée :** 1 jours  
    **Nom de l'organisation :** Microsot Ottawa  
@@ -286,7 +334,7 @@
    **Compétences acquises :**  
      * Introduction à la platforme de Microsoft Dynamics CRM  
    
-6. **Titre :** SQL Server Transact-SQL Programming  
+12. **Titre :** SQL Server Transact-SQL Programming  
    **Date :** 2014  
    **Durée :** 4 jours  
    **Nom de l'organisation :** Learning Tree  
@@ -294,7 +342,7 @@
    **Compétences acquises :**   
      * Connaissances approfondies de la base de donnée SQL Server 2012  
    
-7. **Titre :** Oracle SOA 11g Workshop: SOA for Government  
+13. **Titre :** Oracle SOA 11g Workshop: SOA for Government  
    **Date :** 2013  
    **Durée :** 1 jour  
    **Nom de l'organisation :** Oracle Canada  
@@ -302,7 +350,7 @@
    **Compétences acquises :**  
      * Connaissances de base de l'architecture dbasée sur des services   
 
-8. **Titre :** Cours de gestion de projet  
+14. **Titre :** Cours de gestion de projet  
    **Date :** 2011  
    **Durée :** 3 jours  
    **Nom de l'organisation :** Service Correctionnelle du Canada  
@@ -310,7 +358,7 @@
    **Compétences acquises :**  
    * Connaissances de base en gestion de projet  
    
-9. **Titre :** Extreme Database Designs and the Queries  
+15. **Titre :** Extreme Database Designs and the Queries  
    **Date :** 2011  
    **Durée :** 1 jour  
    **Nom de l'organisation :** DevTeach Inc.  
@@ -318,7 +366,7 @@
    **Compétences acquises :**  
      * Connaissances sur les bases de données modernes  
 
-10. **Titre :** Windows Presentation Foundation (WPF) Course  
+16. **Titre :** Windows Presentation Foundation (WPF) Course  
    **Date :** 2011  
    **Durée :** 3 jours  
    **Nom de l'organisation :** Microsot Ottawa  
@@ -326,7 +374,7 @@
    **Compétences acquises :**  
      * Introduction à WPF  
 
-11. **Titre :** ITIL v.3 Foundation Course with certificate  
+17. **Titre :** ITIL v.3 Foundation Course with certificate  
    **Date :** 2011  
    **Durée :** 3 jours  
    **Nom de l'organisation :** DIYmonde Solutions Inc.  
