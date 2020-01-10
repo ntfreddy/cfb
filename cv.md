@@ -7,6 +7,7 @@
 **Adresse courriel (domicile) :** ntfreddy@yahoo.ca  
 
 # SOMMAIRE
+ * Connaissances en informatique et plus spécialement en technologie de l'information moderne
  * Expérience de l’établissement de partenariats et de la collaboration avec différentes parties intéressées dans les ministères et organismes du gouvernement fédéral.
  * Expérience de la communication et/ou de la démonstration (réunions quotidiennes, études de rentabilité, notes d’information, présentations, etc.) de la valeur opérationnelle des produits et des services de GI-TI. 
  * Expérience de la direction et du développement de grandes équipes interfonctionnelles et de programmes d’entreprises à l’échelle de l’organisation, dans des contextes compliqués et perturbés. 
@@ -50,65 +51,48 @@
    **Dates :** septembre 1992 à avril 1998  
    **Année d’obtention du diplôme :** mars 1999 
 
-# EXPÉRIENCE PROFESSIONNELLE
+# EXPÉRIENCES PROFESSIONNELLES
 1. **Titre, groupe et niveau du poste d’attache :** Analyste-programmeur principal, REG6  
    **Date d’entrée en fonction :** 01/05/2017 à présent  
    **Nom de la direction/direction générale/organisation :** Division de l'architecture d'entreprise et de la mise en oeuvre de solutions/Direction de la gestion et de la technologie de l'information/Commission Canadienne de Surêté Nucléaire  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario Canada  
    **Expérience et compétences acquises :** 
-   * Fournir des conseils spécialisés aux équipes multidisciplinaires concernant le cycle complet de développement de logiciels.
-   * Fournir des conseils et des orientations aux clients sur les problèmes d'application technique.
-   * Travail à partir des exigences fonctionnelles pour développer la conception et l'architecture globales du système.
-   * Concevoir et développer des applications de gestion de cas dans Microsoft Dynamics CRM, du raffinement des user stories à la production.
-   * Concevoir, implémenter et optimiser les modules du système.
-   * Contribuer et soutenir le système de contrôle des révisions logicielles.
-   * Préparer les documents du système technique.
-   * Fournir des conseils techniques et diriger les activités d'application au personnel subalterne.
-   * Veiller au respect des normes de développement.
+   * Fournir des conseils spécialisés aux équipes multidisciplinaires afin d'arriver à l'état défini par la vision du projet;
+   * Fournir des conseils et des orientations aux clients sur les problèmes techniques d'application;
+   * Analyser les risquer et travailler à partir des exigences fonctionnelles pour développer la conception et l'architecture globales du système;
+   * Fournir des conseils techniques aux membres d'équipes moins expérimentées;
+   * Assurer la communication entre les différents intervenants du projet et l'équipe;
+   * Concevoir, implémenter et optimiser les modules du système;
+   * Assurer l'intégrité du système de contrôle des révisions logicielles;
+   * Préparer les documents technique du système;
+   * Veiller au respect des normes de développement;
    
 2. **Titre, groupe et niveau du poste d’attache :** Agent de projet, CS2  
    **Date d’entrée en fonction :** 01/01/2015 au 29/04/2015  
    **Nom de la direction/direction générale/organisation :** Service de gestion d’information/Service des applications/Service Correctionnelle du Canada  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario Canada  
    **Expérience et compétences acquises :** 
-   * Concevoir et développer des applications de gestion de cas dans Microsoft Dynamics CRM.
-   * Développer et prendre en charge des applications Web et de bureau à l'aide de la technologie .NET.
-   * Effectuer les activités de développement et de maintenance du système en contribuant à l'analyse et aux estimations du niveau d'effort pour les éléments de travail, ainsi qu'en examinant les plans et les calendriers de projet, au besoin.
-   * Terminer les tâches de conception, de test et de documentation dans les délais approuvés.
-   * Contribuer au support des applications dans tous les environnements en agissant en tant que mentor auprès des membres de l'équipe à travers le partage des connaissances, le coaching des membres juniors de l'équipe et en participant aux discussions sur l'innovation logicielle.
-   * Soutenir un environnement de travail qui facilite l'innovation, l'engagement des employés et l'excellence du rendement en appuyant les initiatives ministérielles.
+   * Développer et intégrer des solutions complètes pour répondre aux différents besoins des clients à l'aide de la technologie .NET;
+   * Analyser les pratiques actuelles, les données disponibles, les différentes problématiques, les nouveaux besoins, les demandes de  modifications aux applications ou systèmes actuels et documenter afin de recommander des solutions pratiques;
+   * Élaborer et exécuter les différentes phases de test;
+   * Accompagner les analystes-programmeurs juniors dans l’élaboration des solutions et par la révision du code, les supporter dans la réalisation;
+   * Effectuer les activités de développement et de maintenance du système en contribuant à l'analyse et aux estimations du niveau d'effort pour les éléments de travail, ainsi qu'en examinant les plans et les calendriers de projet au besoin;
+   * Soutenir un environnement de travail qui facilite l'innovation, l'engagement des employés et l'excellence du rendement en appuyant les initiatives ministérielles;
 
 3. **Titre, groupe et niveau du poste d’attache :** Agent de projet subalterne, CS1  
    **Date d’entrée en fonction :** 27/06/2011 au 01/01/2015  
    **Nom de la direction/direction générale/organisation :** Service de gestion d’information/Service des applications/Service Correctionnelle du Canada  
    **Ville, province et pays du lieu de travail :** Ottawa, Ontario Canada  
    **Expérience et compétences acquises :** 
-   * Apportez des modifications à une application de la Commission des libérations conditionnelles du Canada (CLCC) appelée Pardon Application and Decision System Renewal software (PADS-R) reposant sur une architecture à n niveaux en langage .NET.
-   * Modifiez la base de données SQL Server lors de la maintenance de PADS-R.
-   * Apportez des modifications et préparez les versions et le déploiement d'une application Web du SCC appelée Système de gestion des informations de réponse aux crises et de sécurité (CRSIMS) construite sur le cadre asp.net en langage C #.
-   * Apportez des modifications à la base de données Oracle lors de la maintenance de CRSIMS.
-   * Maintenir l'application Web Visual Basic Script (ASP + HTML) appelée Climate Indicator and Profile System (CIPS).
-   * Gérer les serveurs de développement à l'aide de MS Internet Information Server / Services (IIS) pour PADS-R et CRSIMS.
-   * Préparer les documents et effectuer les tests et évaluations de la sécurité des logiciels.
-   * Élaborer un logiciel de validation de principe pour la sécurité, l'authentification et l'autorisation des logiciels au Service correctionnel du Canada
-   * Gérer les serveurs de développement (Windows Server 2003, Windows Server 2008 et serveur de développement local sous Windows XP).
-   * Testez et dépannez la conformité du logiciel pour Windows 7 dans une équipe de test.
-   * Tester les applications.
-   * Utilisez des outils de gestion de la configuration tels que Source Safe et Clear Case.
-   * Utilisez le logiciel de gestion des incidents pour suivre les incidents et les modifications.
-   * Maintenir l'application CIPS (Climate Indicator and Profile System) dans ASP classique avec base de données Oracle.
-   * Maintenir CRF - Outil de rapport d'utilisation du lit (CRFBURT) dans Vb.net avec la base de données MYSQL.
-   * Maintenir le programme national de contribution de classe d'aide à la réintégration (NRACCP) en C # avec la base de données Oracle.
-   * Développer le système de transfert international (ITS) en ASP classique avec base de données Oracle.
-   * Examinez les applications pour vérifier qu'elles sont conformes à la norme.
-
-4. **Titre, groupe et niveau du poste d’attache :** Agent de projet subalterne, CS1  
-   **Date d’entrée en fonction :** 29/06/2011 au 01/01/2015  
-   **Nom de la direction/direction générale/organisation :** Service de gestion d’information/Service des applications/Service Correctionnelle du Canada  
-   **Ville, province et pays du lieu de travail :** Ottawa, Ontario Canada  
-   **Expérience et compétences acquises :** 
-   
-5. **Titre :** Chercheur en vision numérique  
+   * Déterminer et analyser les besoins informatiques et techniques des clients ;
+   * Veiller à la qualité des programmes et des services informatiques selon les standards, les normes et les procédures en vigueur.
+   * Effectuer le développement des fonctionnalités et/ou modules en respectant les standards établis;
+   * S’assurer que les fonctionnalités et/ou modules développés s’intègrent bien au système existant;
+   * Concevoir du code robuste, fiable et performant;
+   * Fournir un soutien technique aux clients, au besoin, lors de problèmes soulevés par la clientèle et contribuer à la mise en place de correctifs;
+   * Documenter les programmes selon les processus de développement;
+  
+4. **Titre :** Chercheur en vision numérique  
    **Date d’entrée en fonction :** 12/12/2007 au 24/06/2011  
    **Nom de l'organisation :** Imago Machine Vision Inc.,   
    **Ville, province et pays du lieu de travail :** Gatineau, Québec, Canada  
@@ -134,7 +118,7 @@
    * Supporter le serveur FFTP dans l'environnement LINUX.
    * Utiliser des outils de gestion de configuration tels que CVS et SVN.   
    
-6. **Titre :** Spécialiste en vision numérique  
+5. **Titre :** Spécialiste en vision numérique  
    **Date d’entrée en fonction :** 05/02/2007 au 14/12/2007  
    **Nom de l'organisation :** International Business Machines (IBM)   
    **Ville, province et pays du lieu de travail :** Bromont, Québec, Canada  
@@ -148,7 +132,7 @@
    * Former les utilisateurs à l'utilisation des applications développées.
    * Fournir le support aux applications développées.
    
-7. **Titre :** Étudiant gradué et chercheur  
+6. **Titre :** Étudiant gradué et chercheur  
    **Date d’entrée en fonction :** 06/09/2005 au 01/06/2007  
    **Nom de l'organisation :** Université Laval   
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
@@ -156,7 +140,7 @@
    * Développer des algorithmes de segmentation d'images couleur en utilisant un réseau de neurones appliqué à l'évaluation de l'aubier. Le document résultant a été présenté et publié à la Conférence canadienne de génie électrique et informatique de Vancouver 2007 IEEE Canada.
    * Développer des algorithmes pour le système de suivi de tête 3D pour les conducteurs dans le cadre du projet de thèse de maîtrise. Un article de ce projet a été présenté et publié lors de la Conférence sur l'automatisation industrielle de Montréal en 2007. Analyser et développer un système de caméra stéréoscopique pour la mesure de cibles à longue distance.
 
-8. **Titre :** Assistant professeur    
+7. **Titre :** Assistant professeur    
    **Date d’entrée en fonction :** 06/09/2005 au 01/06/2007  
    **Nom de l'organisation :** Université Laval   
    **Ville, province et pays du lieu de travail :** Québec, Québec, Canada  
@@ -177,7 +161,7 @@
     * Fournir un support informatique aux employés de l'entreprise.
     * Apportez des modifications sur un portail Web de l'entreprise basé sur la technologie asp.net en langage C#.
    
-# EXPÉRIENCE DE BÉNÉVOLAT
+# EXPÉRIENCES DE BÉNÉVOLAT
 1. **Titre :** Bénévole à l'église adventiste du 7e jour à Gatineau  
    **Dates :** 2008 à présent   
    **Nom de l'organisation :** Église adventiste du 7e jour à Gatineaue   
@@ -245,7 +229,7 @@
      * Développer dans le langage PHP et Javascript.   
    
 
-# FORMATIONS
+# FORMATIONS ET SÉMINAIRES
 1. **Titre :** Azure Hands-On Labs DevOps  
    **Date :** 2019  
    **Durée :** 1 jour  
